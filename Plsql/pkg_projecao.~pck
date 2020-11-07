@@ -84,7 +84,7 @@ CREATE OR REPLACE Package Body pkg_projecao Is
 									 pra_data,
 									 pra_descricao,
 									 pra_dm_tp_projecao,
-									 'H', -- pra_dm_tp_arquivo,
+									 pra_dm_tp_arquivo,
 									 pra_valor_inicial,
 									 pra_valor_creditos,
 									 pra_valor_debitos,
