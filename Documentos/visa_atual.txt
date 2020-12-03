@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+02/12/2020                       Auto-Atendimento                       13:46:21
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 4984.****.****.2665         
+Modalidade      : OUROCARD PLATINUM ESTILO VISA    
+ 
+--------------------------------------------------------------------------------
+                     L A N Ç A M E N T O S    F U T U R O S                     
+--------------------------------------------------------------------------------
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1-CARLOS CAN                                
+                                                     
+         SALDO FATURA ANTERIOR                  BR          2.668,84        0,00
+                                                     
+ 
+         Pagamentos                                  
+23/11    PGTO DEBITO CONTA 4725 000009753  200  211        -2.668,84        0,00
+                                                     
+ 
+         Compras a vista                             
+ 
+         Compras Diversas                            
+11/11    COLONIAL PAES E DOCES  Sao Paulo       BR             94,29        0,00
+14/11    DAISO 39               JUNDIAI         BR             33,96        0,00
+14/11    POSTO PROGRESSO ELOY C JUNDIAI         BR            143,14        0,00
+14/11    IRMAOS BOA LTDA        JUNDIAI         BR            178,72        0,00
+20/11    PET NIVA               JUNDIAI         BR             84,70        0,00
+20/11    SUPERMERCADO BOA       JUNDIAI         BR            563,10        0,00
+21/11    BJP                    JUNDIAI         BR             40,84        0,00
+24/11    COTTON ON              JUNDIAI         BR             52,43        0,00
+25/11    TOKIO MARINE*Auto 3 de SAO PAULO       BR            307,57        0,00
+ 
+         Restaurantes                                
+15/11    STUZZI CB              Sao Paulo       BR             45,50        0,00
+15/11    QUINTAL FRATELLI       JUNDIAI         BR             59,00        0,00
+17/11    HASHI EXPRESS          JUNDIAI         BR             90,11        0,00
+21/11    QUINTAL FRATELLI       JUNDIAI         BR             59,00        0,00
+24/11    M P ALVES SHIMABUKURO  JUNDIAI         BR             56,90        0,00
+                                                     
+ 
+         Compras/Pagamento de contas parceladas      
+ 
+         Agências de Viagens                         
+15/08    TRAVEL RESERV PARC 04/06 #800-891-384  BR            143,13        0,00
+ 
+         Compras Diversas                            
+20/11    ACOM MKT PLAC PARC 01/03 RIO DE JANEI  BR             59,98        0,00
+20/11    ACOM MKT PLAC PARC 01/03 RIO DE JANEI  BR            102,84        0,00
+                                                     
+ 
+         SubTotal                                           2.115,21        0,00
+                                                     
+ 
+         Total                                              2.115,21        0,00
+
+
+
+
+
+
+
+
+
+
