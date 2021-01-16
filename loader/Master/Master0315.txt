@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+04/01/2016                       Auto-Atendimento                       10:25:08
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 5549.****.****.3718         
+Modalidade      : OUROCARD PLATINUM ESTILO MASTERCARD
+ 
+Vencimento      : 07.03.2015          
+Total da fatura : R$ 2.740,84       
+Pagamento mínimo: R$ 411,12         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1-CARLOS CANAVESI                           
+                                                     
+         SALDO FATURA ANTERIOR                  BR          2.390,10        0,00
+                                                     
+ 
+         Pagamentos                                  
+09/02    PGTO DEBITO CONTA 4725 000007016  200  211        -2.390,10        0,00
+                                                     
+ 
+         Compras a vista                             
+ 
+         Compras Diversas                            
+24/01    AUTO POSTO FINLANDIA   SAO PAULO       BRA            70,52        0,00
+29/01    DROGARIA JURUCE        SAO PAULO       BRA            35,83        0,00
+29/01    AUTO POSTO FINLANDIA   SAO PAULO       BRA            88,96        0,00
+04/02    NOSSA CASA PAD E CONV  SAO PAULO       BRA            65,76        0,00
+04/02    AUTO POSTO FINLANDIA   SAO PAULO       BRA            76,82        0,00
+ 
+         Restaurantes                                
+25/01    BAR E MERCEARIA CANDRE CAMPINAS        BRA            43,80        0,00
+31/01    VIVENDA DO CAMARAO     SAO CAETANO D   BRA            47,80        0,00
+07/02    PIZZA HUT  33  D       SAO PAULO       BRA           100,00        0,00
+ 
+         Hospitais                                   
+27/01    ULTRAFARMA             SAO PAULO       BRA            34,62        0,00
+27/01    SINFISIO               SAO PAULO       BRA           370,00        0,00
+29/01    ULTRAFARMA             SAO PAULO       BRA            66,11        0,00
+ 
+         Companhias A&eacute;reas                    
+31/01    TAM AGENCIAS           SAO PAULO       BRA           178,56        0,00
+ 
+         Compras por mala direta/telefone/web        
+09/02    BB SEGURO AUTO         RIO DE JANEIR   BRA           627,38        0,00
+                                                     
+ 
+         Compras/Pagamento de contas parceladas      
+ 
+         Hospitais                                   
+01/11    OTICA MAX-C.P PARC 04/06 SAO PAULO     BR            233,33        0,00
+ 
+         Compras Diversas                            
+01/11    AMAZON        PARC 04/06 SAO PAULO     BR            250,00        0,00
+ 
+         Ag&ecirc;ncias de Viagens                   
+06/01    CVC VIAGENS E PARC 02/10 SANTO ANDRE   BR            423,10        0,00
+                                                     
+ 
+         Anuidades                                   
+19/02    ANUIDADE DIFERENCIADA TIT-PARC 05/06   BR             28,25        0,00
+                                                     
+ 
+         SubTotal                                           2.740,84        0,00
+                                                     
+ 
+         Total                                              2.740,84        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  2.390,10 -   2.390,10 +   2.740,84 =    2.740,84 -       0,00 =       2.740,84
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 5.180,00
+Saques                               : 5.180,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 5.000,00
+Crediário                            : 14.669,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,88     11,29
+Crédito Parcelado:                  3,69      4,63
+Permanência      :                 10,89     11,29
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PROGRAMA PONTO PRA VOCÊ
+--------------------------------------------------------------------------------
+    Saldo Anterior                     :  10.334
+(+) Adquiridos                         :   3.386
+(-) Utilizados/Transferidos            :       0
+(-) Prescritos                         :       0
+(+) Acertos                            :       0
+    Pontos a Prescrever Em  28.02.2015 :       0
+    Pontos Intransferíveis             :       0
+    Pontuação acumulada Até 20.02.2015 :  13.720
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

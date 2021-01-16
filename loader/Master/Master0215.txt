@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+04/01/2016                       Auto-Atendimento                       10:24:24
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 5549.****.****.3718         
+Modalidade      : OUROCARD PLATINUM ESTILO MASTERCARD
+ 
+Vencimento      : 07.02.2015          
+Total da fatura : R$ 2.390,10       
+Pagamento mínimo: R$ 358,52         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1-CARLOS CANAVESI                           
+                                                     
+         SALDO FATURA ANTERIOR                  BR          2.760,86        0,00
+                                                     
+ 
+         Pagamentos                                  
+07/01    PGTO DEBITO CONTA 4725 000007011  200  211        -2.760,86        0,00
+                                                     
+ 
+         Compras a vista                             
+ 
+         Hospitais                                   
+26/12    ULTRAFARMA             SAO PAULO       BRA            76,77        0,00
+ 
+         Restaurantes                                
+27/12    FA LJ CAI              CAIEIRAS        BRA            20,20        0,00
+07/01    SABOR REAL             SAO PAULO       BRA            17,93        0,00
+ 
+         Compras Diversas                            
+08/01    AUTO POSTO FINLANDIA   SAO PAULO       BRA            90,99        0,00
+ 
+         Compras por mala direta/telefone/web        
+09/01    BB SEGURO AUTO         RIO DE JANEIR   BRA           627,38        0,00
+                                                     
+ 
+         Compras/Pagamento de contas parceladas      
+ 
+         Hospitais                                   
+01/11    OTICA MAX-C.P PARC 03/06 SAO PAULO     BR            233,33        0,00
+ 
+         Compras Diversas                            
+01/11    AMAZON        PARC 03/03 SAO PAULO     BR            561,11        0,00
+01/11    AMAZON        PARC 03/06 SAO PAULO     BR            250,00        0,00
+07/11    CAMICADO      PARC 03/03 SAO PAULO     BR             53,30        0,00
+ 
+         Ag&ecirc;ncias de Viagens                   
+06/01    CVC VIAGENS E PARC 01/10 SANTO ANDRE   BR            423,14        0,00
+                                                     
+ 
+         D&eacute;bitos diversos                     
+29/12    TARIFA 2A. VIA DE CARTAO               BR              7,70        0,00
+                                                     
+ 
+         Anuidades                                   
+22/01    ANUIDADE DIFERENCIADA TIT-PARC 04/06   BR             28,25        0,00
+                                                     
+ 
+         SubTotal                                           2.390,10        0,00
+                                                     
+ 
+         Total                                              2.390,10        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  2.760,86 -   2.760,86 +   2.390,10 =    2.390,10 -       0,00 =       2.390,10
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 5.180,00
+Saques                               : 5.180,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 5.000,00
+Crediário                            : 14.669,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,84     10,89
+Crédito Parcelado:                  3,69      4,63
+Permanência      :                 10,89     10,89
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PROGRAMA PONTO PRA VOCÊ
+--------------------------------------------------------------------------------
+    Saldo Anterior                     :   8.084
+(+) Adquiridos                         :   2.250
+(-) Utilizados/Transferidos            :       0
+(-) Prescritos                         :       0
+(+) Acertos                            :       0
+    Pontos a Prescrever Em  31.01.2015 :       0
+    Pontos Intransferíveis             :       0
+    Pontuação acumulada Até 23.01.2015 :  10.334
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+04/01/2016                       Auto-Atendimento                       10:21:19
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 4984.****.****.6131         
+Modalidade      : OUROCARD PLATINUM ESTILO VISA    
+ 
+Vencimento      : 22.02.2015          
+Total da fatura : R$ 457,94         
+Pagamento mínimo: R$ 68,70          
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1-CARLOS CANAVESI                           
+                                                     
+         SALDO FATURA ANTERIOR                  BR          3.412,49        0,00
+                                                     
+ 
+         Pagamentos                                  
+22/01    PGTO DEBITO CONTA 4725 000009715  200  211        -3.412,49        0,00
+                                                     
+ 
+         Cr&eacute;ditos diversos                    
+27/01    AJUSTE A CREDITO VAR.CAMBIAL COMPRA E  XT            -10,37        0,00
+                                                     
+ 
+         Compras a vista                             
+ 
+         Compras Diversas                            
+10/01    EXTRA AEROPORTO 1337   SAO PAULO       BR             45,45        0,00
+11/01    NOSSA CASA PAD E CONV  SAO PAULO       BR             66,29        0,00
+16/01    CENTRO AUTOMOTIVO FINL SAO PAULO       BR             93,07        0,00
+17/01    PARKSHOPPIN SAO CAETAN SAO CAETANO D   BR              6,00        0,00
+18/01    AVL COMERCIO           SAO PAULO       BR             73,50        0,00
+18/01    PARKSHOPPIN SAO CAETAN SAO CAETANO D   BR              6,00        0,00
+ 
+         Restaurantes                                
+17/01    GELATERIA PARMALAT     SAO CAETANO D   BR             36,50        0,00
+                                                     
+ 
+         Compras/Pagamento de contas parceladas      
+ 
+         Ag&ecirc;ncias de Viagens                   
+13/01    CVC VIAGENS E PARC 01/08 SANTO ANDRE   BR            141,50        0,00
+                                                     
+ 
+         SubTotal                                             457,94        0,00
+                                                     
+ 
+         Total                                                457,94        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  3.412,49 -   3.422,86 +     468,31 =      457,94 -       0,00 =         457,94
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 5.180,00
+Saques                               : 5.180,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 5.000,00
+Crediário                            : 14.669,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,84     11,29
+Crédito Parcelado:                  3,69      4,63
+Permanência      :                 10,89     11,29
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PROGRAMA PONTO PRA VOCÊ
+--------------------------------------------------------------------------------
+    Saldo Anterior                     :   8.752
+(+) Adquiridos                         :   3.728
+(-) Utilizados/Transferidos            :       0
+(-) Prescritos                         :       0
+(+) Acertos                            :       0
+    Pontos a Prescrever Em  28.02.2015 :       0
+    Pontos Intransferíveis             :       0
+    Pontuação acumulada Até 09.02.2015 :  12.480
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+25/09/2020                       Auto-Atendimento                       09:55:18
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 5549.****.****.7938         
+Modalidade      : OUROCARD PLATINUM ESTILO MASTERCARD
+ 
+Vencimento      : 07.10.2020          
+Total da fatura : R$ 2.455,12       
+Pagamento mínimo: R$ 368,27         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1 - CARLOS CANAVESI                         
+                                                     
+         SALDO FATURA ANTERIOR                  BR          1.649,43        0,00
+                                                     
+ 
+         Pagamentos/Créditos                         
+08.09.2020PGTO DEBITO CONTA 4725 000007025  200211           -1.649,43        0,00
+                                                     
+ 
+         Restaurantes                                
+29.08.2020VICINO FORNERIA        SAO PAULO     BRA               47,50        0,00
+29.08.2020COLONIAL PAES E DOCES  SAO PAULO     BRA              101,00        0,00
+04.09.2020VICINO FORNERIA        SAO PAULO     BRA               42,00        0,00
+05.09.2020VICINO FORNERIA        SAO PAULO     BRA               42,00        0,00
+05.09.2020RODOSNACK LANCHONETE E JUNDIAI       BRA               88,90        0,00
+10.09.2020VICINO FORNERIA        SAO PAULO     BRA               53,50        0,00
+12.09.2020PAG*EmporioPizzariaEC  JUNDIAI       BRA               44,90        0,00
+                                                     
+ 
+         Serviços                                    
+29.08.2020KALUNGA WASHINGTON LUI SAO PAULO     BRA               86,29        0,00
+30.08.2020NICOM COM MATS CONSTR  SAO PAULO     BRA              203,29        0,00
+07.09.2020.                      RIO DE JANEIR BRA              307,50        0,00
+12.09.2020POSTO INVICTO          SAO PAULO     BRA              196,15        0,00
+22.09.2020GIARDINO DI PANE       JUNDIAI       BRA               72,66        0,00
+                                                     
+ 
+         Supermercados                               
+29.08.2020EXTRA AEROPORTO 1337   SAO PAULO     BRA              240,00        0,00
+06.09.2020EXTRA AEROPORTO 1337   SAO PAULO     BRA              118,00        0,00
+12.09.2020EXTRA 1386 LOJA JUNDIA JUNDIAI       BRA              150,00        0,00
+                                                     
+ 
+         Transporte                                  
+01.09.2020EBANX       *SPOTIFY   CURITIBA      BRA               26,90        0,00
+                                                     
+ 
+         Compras parceladas                          
+25.01.2020KAZA DO SOFA  PARC 08/12 SAO PAULO   BR              164,58        0,00
+06.04.2020MAGALU PAGAM* PARC 06/06 SAO PAULO   BR              143,63        0,00
+15.05.2020MAGALU PAGAM* PARC 05/06 SAO PAULO   BR              326,32        0,00
+                                                     
+ 
+         SubTotal                                           2.455,12        0,00
+                                                     
+ 
+         Total                                              2.455,12        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  1.649,43 -  -1.649,43 +   2.455,12 =    2.455,12 -       0,00 =       2.455,12
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 5.349,00
+Saques                               : 5.349,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 8.260,00
+Crediário                            :    0,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,98     10,90
+Crédito Parcelado:                  6,09      8,37
+Permanência      :                  1,00      1,00
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PONTO PRA VOCÊ/LIVELO
+--------------------------------------------------------------------------------
+    Pontuação acumulada Até 22.09.2020 :  26.948
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

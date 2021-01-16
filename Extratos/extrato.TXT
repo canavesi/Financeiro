@@ -1,0 +1,117 @@
+                      SISBB - Sistema de Informações Banco do Brasil                      
+22/12/2020                            Auto-Atendimento                            14:28:24
+                                 Extrato de conta corrente                                
+                                                                                
+Agência: 4725-2       Conta: 106049-X
+Cliente: CARLOS CANAVESI
+=============================================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor          Saldo Previsto
+                                                                                
+30/11/2020         Saldo Anterior                                          319,01 D              319,01 D
+01/12/2020         Cobrança de I.O.F.        391.100.701                    1,23 D              320,24 D
+02/12/2020         TED-Crédito em Conta      884.364.519                   42,21 C              278,03 D
+                 341 7912 24099253000122 CARLOS CANAVES                         
+04/12/2020         Benefício INSS            177.440.769                3.401,42 C                      
+04/12/2020         Aplicação em Fundo        51                         3.123,39 D                0,00 C
+07/12/2020         Banco 24 Horas            3.592.900.865.438            170,00 D                      
+                 07/12 12:01 CARREFOUR JUNDIAI I                                
+07/12/2020         Pagto cartão crédito      69.706.313                 1.392,66 D                      
+                 PLATINUM ESTILO MAST                                           
+07/12/2020         Resgate Fundo             51                         1.562,66 C                0,00 C
+09/12/2020         TED-Crédito em Conta      33.880.626                   308,75 C                      
+                 102 0001     5478854824 CARLOS CANAVES                         
+09/12/2020 4725-2  Compra com Cartão         136.252                       26,26 D                      
+                 09/12 10:04 GIARDINO DI PANE                                   
+09/12/2020 4725-2  Compra com Cartão         254.977                       31,00 D                      
+                 09/12 15:16 LJ 0033 SHOP JUNDIAI                               
+09/12/2020         BB Ações Petrobras I      1.101.395                    500,00 D                      
+09/12/2020         Resgate Fundo             51                           248,51 C                0,00 C
+10/12/2020         Pagto conta telefone      121.001                      344,98 D                      
+                 NET SERVICOS                                                   
+10/12/2020         Pagamento de Boleto       121.002                       47,70 D                      
+                 ITAU UNIBANCO S.A.                                             
+10/12/2020         Pagamento de Boleto       121.003                      608,88 D                      
+                 ITAU UNIBANCO S.A.                                             
+10/12/2020         Resgate Fundo             51                         1.001,56 C                0,00 C
+11/12/2020         Recebimento Fornecedor    273.625                    1.999,88 C                      
+                 PJBANK PAGAMENTOS S.A.                                         
+11/12/2020 4725-2  Compra com Cartão         149.103                       94,00 D                      
+                 11/12 13:38 PET ZOO                                            
+11/12/2020 5696-0  Saque no TAA              111.504.283.402.665          500,00 D                      
+                 11/12 15:04 SOP-CAMPO BELO-SP                                  
+11/12/2020         Aplicação em Fundo        51                         1.405,88 D                0,00 C
+14/12/2020 4725-2  Compra com Cartão         137.264                       25,99 D                      
+                 12/12 10:21 COOPERCICA                                         
+14/12/2020         Resgate Fundo             51                            25,99 C                0,00 C
+16/12/2020 4725-2  Compra com Cartão         152.502                       15,50 D                      
+                 16/12 14:35 LJ 0033 SHOP JUNDIAI                               
+16/12/2020         Resgate Fundo             51                            15,50 C                0,00 C
+17/12/2020         Uol Universo Online       20.420                        57,64 D                      
+                 UNIVERSO ONLINE SA                                             
+17/12/2020         Cobrança de Juros         511.058.901                    7,45 D                      
+17/12/2020         Resgate Fundo             51                            65,09 C                0,00 C
+18/12/2020         Devolução Juros-Chq Espec 511.058.901                    7,45 C                      
+18/12/2020         Banco 24 Horas            4.646.100.413.165            300,00 D                      
+                 18/12 12:06 SUP BOA NOVO RETIRO V                              
+18/12/2020         Clube de Benefícios BB    180.001                       90,00 D                      
+                 Clube de beneficios 12/2020                                    
+18/12/2020         Estorno Resgate Automátic 51                            65,09 D                      
+18/12/2020         Resgate Fundo             51                            57,64 C                      
+18/12/2020         Resgate Fundo             51                           390,00 C                0,00 C
+22/12/2020 9001-8  Brasilprev                4.154                        150,00 D                      
+22/12/2020 9001-8  Brasilprev                4.154                        150,00 D                      
+22/12/2020         S A L D O                                                                     300,00 D
+--------------------------------------------------------------------------------
+Invest.com Resgate Autom.                                             1.227,47 C
+Saldo Aprovisionado no Dia                                            2.115,21 D
+Saldo                                                                 1.187,74 D
+CHEQUE ESPECIAL - LIMITES                                                       
+- Limite Contratado                                                   5.800,00 C
+- Limite Utilizado                                                    1.187,74 D
+- Limite Disponivel                                                   4.612,26 C
+Dias de Uso Ch. Especial                                                    0,00
+Juros                                                                       0,00
+Data de Debito de Juros                                            18./01./20,21
+IOF                                                                         0,07
+Data de Debito de IOF                                               4./01./20,21
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                7,69%
+Taxa Cheque Especial AO ANO                                              143,28%
+DT. VENC. CH. ESP.                                                    29/01/2021
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+ Valor total devido                                 5.800,00                   -
+ Valor liberado                                     5.800,00              100,00
+Despesas Vinculadas                                                             
+ - Tributos IOF                                         0,00                0,00
+                                                                                
+=============================================================================================================
+                                   Lançamentos  Futuros                                   
+                                                                                
+22/12/2020   PGT CARTAO                    69.684.790                   2.115,21
+28/12/2020   PEDAGIO                       11.806                         114,16
+11/01/2021   PAG BOLETO                    11.102                          47,70
+11/01/2021   PAG BOLETO                    11.101                         601,26
+18/01/2021   D.AUTORIZ.                    20.420                          40,33
+                                                                                
+=============================================================================================================
+                             Saldo de Fundos de Investimentos                             
+                                                                                
+BB LCA POS CDI                                                         10.011,43
+Ações Energia                                                           6.563,07
+BB Automático Estilo                                                    1.227,50
+Ações Petrobras                                                         2.024,72
+RF LP Prefixado                                                        13.225,70
+Ações Constr Civil                                                      2.223,98
+Ações Infraestrutura                                                    5.047,13
+Ações Petrobras I                                                       6.351,15
+T O T A L                                                              46.674,68
+                                                                                
+                ------------------------------------------------                
+                Taxa Máxima Conta Especial: 7,73% P/você: 7,69%*                
+                ------------------------------------------------                
+                OBSERVAÇÕES:                                                    
+                   - INFORMAÇÕES CDC INDISP. TEMPORARIAMENTE                    
+                ------------------------------------------------                
+                                                                                
+                                                                                

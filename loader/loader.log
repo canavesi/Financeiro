@@ -1,0 +1,114 @@
+
+SQL*Loader: Release 11.2.0.1.0 - Production on Qua Dez 23 09:58:23 2020
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   C:\Desenv\Oracle\Financeiro\loader\loader.ctl
+Data File:      C:\Desenv\Oracle\Financeiro\loader\loader.TXT
+  Bad File:     C:\Desenv\Oracle\Financeiro\loader\loader.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 100
+Bind array:     5000 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table FIN_EXTRATOS_ITENS_TMP, loaded from every logical record.
+Insert option in effect for this table: APPEND
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+SEQ_EXTRATO                         FIRST     1           CHARACTER            
+    SQL string for column : "pkg_extratos.fnc_rec_num_extrato"
+SEQ_LINHA                            NEXT     1           CHARACTER            
+    SQL string for column : "SQ_FIN_EXTRATOS_ITENS_TMP.nextval"
+DSC_LINHA                           1:299   299           CHARACTER            
+
+value used for ROWS parameter changed from 5000 to 825
+Record 1: Discarded - all columns null.
+Record 2: Discarded - all columns null.
+Record 3: Discarded - all columns null.
+Record 4: Discarded - all columns null.
+Record 5: Discarded - all columns null.
+Record 6: Discarded - all columns null.
+Record 7: Discarded - all columns null.
+Record 8: Discarded - all columns null.
+Record 9: Discarded - all columns null.
+Record 10: Discarded - all columns null.
+Record 11: Discarded - all columns null.
+Record 12: Discarded - all columns null.
+Record 13: Discarded - all columns null.
+Record 14: Discarded - all columns null.
+Record 15: Discarded - all columns null.
+Record 16: Discarded - all columns null.
+Record 17: Discarded - all columns null.
+Record 18: Discarded - all columns null.
+Record 19: Discarded - all columns null.
+Record 23: Discarded - all columns null.
+Record 24: Discarded - all columns null.
+Record 28: Discarded - all columns null.
+Record 32: Discarded - all columns null.
+Record 37: Discarded - all columns null.
+Record 38: Discarded - all columns null.
+Record 40: Discarded - all columns null.
+Record 42: Discarded - all columns null.
+Record 43: Discarded - all columns null.
+Record 46: Discarded - all columns null.
+Record 47: Discarded - all columns null.
+Record 49: Discarded - all columns null.
+Record 55: Discarded - all columns null.
+Record 75: Discarded - all columns null.
+Record 79: Discarded - all columns null.
+Record 80: Discarded - all columns null.
+Record 82: Discarded - all columns null.
+Record 85: Discarded - all columns null.
+Record 88: Discarded - all columns null.
+Record 89: Discarded - all columns null.
+Record 91: Discarded - all columns null.
+Record 93: Discarded - all columns null.
+Record 94: Discarded - all columns null.
+Record 96: Discarded - all columns null.
+Record 98: Discarded - all columns null.
+Record 99: Discarded - all columns null.
+Record 107: Discarded - all columns null.
+Record 115: Discarded - all columns null.
+Record 116: Discarded - all columns null.
+Record 124: Discarded - all columns null.
+Record 125: Discarded - all columns null.
+Record 134: Discarded - all columns null.
+Record 135: Discarded - all columns null.
+Record 147: Discarded - all columns null.
+Record 148: Discarded - all columns null.
+Record 149: Discarded - all columns null.
+Record 150: Discarded - all columns null.
+Record 151: Discarded - all columns null.
+Record 152: Discarded - all columns null.
+Record 153: Discarded - all columns null.
+Record 154: Discarded - all columns null.
+Record 155: Discarded - all columns null.
+Record 156: Discarded - all columns null.
+
+Table FIN_EXTRATOS_ITENS_TMP:
+  94 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  62 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 255750 bytes(825 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           156
+Total logical records rejected:         0
+Total logical records discarded:       62
+
+Run began on Qua Dez 23 09:58:23 2020
+Run ended on Qua Dez 23 09:58:23 2020
+
+Elapsed time was:     00:00:00.09
+CPU time was:         00:00:00.03

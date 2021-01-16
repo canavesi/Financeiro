@@ -1,0 +1,130 @@
+                      SISBB - Sistema de Informações Banco do Brasil                      
+27/12/2020                            Auto-Atendimento                            09:20:21
+                                 Extrato de conta corrente                                
+                                                                                
+Agência: 4725-2       Conta: 106049-X
+Cliente: CARLOS CANAVESI
+=============================================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor          Saldo Previsto
+                                                                                
+28/10/2020         Saldo Anterior                                            0,00 C                0,00 C
+03/11/2020 4725-2  Compra com Cartão         134.804                       27,40 D                      
+                 03/11 09:40 MONTE REI BAKERY LTD                               
+03/11/2020         Banco 24 Horas            3.316.500.726.638          1.100,00 D                      
+                 31/10 10:08 SUP BOA NOVO RETIRO II                             
+03/11/2020         Pagamento de Boleto       110.301                      150,00 D                      
+                 HARA E NAKASHIMA                                               
+03/11/2020         Emissão de DOC            110.302                      100,00 D                      
+                 341 0741 10065615875 ANDREA TULLIO                             
+03/11/2020         Resgate Fundo             51                           239,39 C            1.138,01 D
+04/11/2020         TED-Crédito em Conta      34.050.828                 3.552,00 C                      
+                 102 0001     5478854824 CARLOS CANAVES                         
+04/11/2020         Aplicação em Fundo        51                         2.413,99 D                0,00 C
+05/11/2020         TED-Crédito em Conta      760.853.791                    0,01 C                      
+                 033 4378 18191228000171 PJBANK PAGAMEN                         
+05/11/2020 4725-2  Compra com Cartão         141.184                       21,54 D                      
+                 05/11 11:26 PANIFICADORA E CONFE                               
+05/11/2020 4725-2  Transferência enviada     606.813.000.027.080          515,00 D                      
+                 05/11 6813      27080-6 DENISE CARNEIR                         
+05/11/2020         Resgate Fundo             51                           536,53 C                0,00 C
+06/11/2020         Benefício INSS            177.440.769                3.401,42 C                      
+06/11/2020         TED-Crédito em Conta      768.844.680                2.052,14 C                      
+                 341 0176 28924566000129 CIANO IMOVEIS                          
+06/11/2020         Aplicação em Fundo        51                         5.453,56 D                0,00 C
+09/11/2020 4725-2  Compra com Cartão         161.469                      131,78 D                      
+                 07/11 17:04 VIA VERDE POSTO SERV                               
+09/11/2020 4725-2  Compra com Cartão         250.095                       44,18 D                      
+                 08/11 13:54 FIRENZE PAES E DOCES                               
+09/11/2020 4725-2  Compra com Cartão         529.954                       22,70 D                      
+                 07/11 16:34 RODOSNACK LANCHONETE                               
+09/11/2020 4725-2  Compra com Cartão         647.887                       59,00 D                      
+                 07/11 19:34 QUINTAL FRATELLI                                   
+09/11/2020         Banco 24 Horas            3.396.100.847.438             40,00 D                      
+                 07/11 10:55 EXTRA JUNDIAI VENTURA III                          
+09/11/2020         Pagto conta telefone      110.901                      339,64 D                      
+                 NET SERVICOS                                                   
+09/11/2020         Pagto cartão crédito      69.706.313                 2.136,96 D                      
+                 PLATINUM ESTILO MAST                                           
+09/11/2020         Resgate Fundo             51                         2.774,26 C                0,00 C
+10/11/2020         Telefone Pre-Pago         997.570.385.007.169          100,00 D                      
+                 11997570385-Vivo SP                                            
+10/11/2020         Pagamento de Boleto       111.001                      660,83 D                      
+                 ITAU UNIBANCO S.A.                                             
+10/11/2020         Pagamento de Boleto       111.002                       47,70 D                      
+                 ITAU UNIBANCO S.A.                                             
+10/11/2020         Resgate Fundo             51                           808,53 C                0,00 C
+11/11/2020 4725-2  Compra com Cartão         151.715                       35,00 D                      
+                 11/11 14:21 PAG*MariBijou                                      
+11/11/2020         Resgate Fundo             51                            35,00 C                0,00 C
+13/11/2020 4725-2  Compra com Cartão         163.521                       33,99 D                      
+                 13/11 17:38 BJP                                                
+13/11/2020         Resgate Fundo             51                            33,99 C                0,00 C
+16/11/2020 4725-2  Compra com Cartão         140.588                       49,90 D                      
+                 14/11 11:16 JUNDIAI SH - 019                                   
+16/11/2020         Resgate Fundo             51                            49,90 C                0,00 C
+17/11/2020 4725-2  Compra com Cartão         723.287                       11,98 D                      
+                 17/11 08:51 REDE OBA                                           
+17/11/2020         Banco 24 Horas            3.287.800.514.538            150,00 D                      
+                 17/11 10:05 EXTRA RICARDO JAFET III                            
+17/11/2020         Banco 24 Horas            3.287.800.514.638            150,00 D                      
+                 17/11 10:06 EXTRA RICARDO JAFET III                            
+17/11/2020         Banco 24 Horas            3.287.800.514.738            150,00 D                      
+                 17/11 10:07 EXTRA RICARDO JAFET III                            
+17/11/2020         Uol Universo Online       20.420                        57,64 D                      
+                 UNIVERSO ONLINE SA                                             
+17/11/2020         Cobrança de Juros         511.058.901                    2,91 D                      
+17/11/2020         Resgate Fundo             51                           522,53 C                0,00 C
+18/11/2020         Devolução Juros-Chq Espec 511.058.901                    2,91 C                      
+18/11/2020 4725-2  Compra com Cartão         167.031                       28,00 D                      
+                 18/11 18:37 L F PASTEIS                                        
+18/11/2020         Clube de Benefícios BB    180.001                       90,00 D                      
+                 Clube de beneficios 11/2020                                    
+18/11/2020         Estorno Resgate Automátic 51                           522,53 D                      
+18/11/2020         Resgate Fundo             51                           519,62 C                      
+18/11/2020         Resgate Fundo             51                           118,00 C                0,00 C
+23/11/2020         Emissão de DOC            112.301                      108,78 D                      
+                 341 3789 27271489843 EDUARDO ROMEIRO B                         
+23/11/2020         Pagto cartão crédito      69.684.790                 2.668,84 D                      
+                 PLATINUM ESTILO VISA                                           
+23/11/2020         Brasilprev                4.154                        150,00 D                      
+                 BRASILPREV SEGUROS                                             
+23/11/2020         Brasilprev                4.154                        150,00 D                      
+                 BRASILPREV SEGUROS                                             
+23/11/2020         Resgate Fundo             51                         2.991,86 C               85,76 D
+24/11/2020 4725-2  Compra com Cartão         139.287                       17,98 D                      
+                 24/11 10:54 DAISO 39                                           
+24/11/2020 4725-2  Compra com Cartão         242.453                       17,15 D                      
+                 24/11 11:47 KOPENHAGEN                                         
+24/11/2020 4725-2  Compra com Cartão         346.336                       31,00 D                      
+                 24/11 12:52 LJ 0033 SHOP JUNDIAI                               
+24/11/2020         Banco 24 Horas            4.685.700.712.265            170,00 D              321,89 D
+                 24/11 13:09 SHOP JUNDIAI 9 DE JULHO IV                         
+25/11/2020 4725-2  Compra com Cartão         131.668                       25,56 D                      
+                 25/11 08:47 PANIFICADORA E CONFE                               
+25/11/2020 4725-2  Compra com Cartão         238.461                       57,49 D                      
+                 25/11 10:41 ULTRAFARMA SAUDE                                   
+25/11/2020 4725-2  Compra com Cartão         338.981                       17,00 D                      
+                 25/11 10:49 CHEKPARK ESTAC                                     
+25/11/2020         Pagamento Pedágio         11.806                       230,96 D              652,90 D
+                 SEM PARAR                                                      
+27/11/2020         Resgate LCA               103.320.800.172.344       10.783,89 C                      
+27/11/2020         Aplicação LCA             103.320.800.172.342       10.000,00 D              130,99 C
+30/11/2020         Emissão de DOC            113.001                      450,00 D                      
+                 341 0718 04674573874 CATARINA CANAVESI                         
+30/11/2020         S A L D O                                                                     319,01 D
+--------------------------------------------------------------------------------
+- Limite Cheque Especial                                              5.800,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                7,69%
+Taxa Cheque Especial AO ANO                                              143,28%
+DT. VENC. CH. ESP.                                                    29/01/2021
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+ Valor total devido                                 5.836,30                   -
+ Valor liberado                                     5.800,00               99,38
+Despesas Vinculadas                                                             
+ - Tributos IOF                                        36,30                0,62
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                                                                                

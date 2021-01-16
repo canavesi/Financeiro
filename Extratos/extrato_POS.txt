@@ -1,0 +1,93 @@
+                      SISBB - Sistema de Informações Banco do Brasil                      
+18/12/2020                            Auto-Atendimento                            09:19:46
+                                 Extrato de conta corrente                                
+                                                                                
+Agência: 4725-2       Conta: 106049-X
+Cliente: CARLOS CANAVESI
+=============================================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor          Saldo Previsto
+                                                                                
+30/09/2020         Saldo Anterior                                            0,00 C                0,00 C
+02/10/2020 4725-2  Compra com Cartão         157.433                       18,19 D                      
+                 02/10 15:57 BJP                                                
+02/10/2020         Resgate Fundo             51                            18,19 C                0,00 C
+05/10/2020 6813-6  Transferência recebida    606.813.000.027.080          250,00 C                      
+                 04/10 6813      27080-6 DENISE CARNEIR                         
+05/10/2020 7850-6  Saque no TAA              31.455.105.337.938           500,00 D                      
+                 03/10 14:55 SOP-PROENCA                                        
+05/10/2020         Resgate Fundo             51                           250,00 C                0,00 C
+06/10/2020         Benefício INSS            177.440.769                3.401,42 C                      
+06/10/2020         Aplicação em Fundo        51                         3.401,42 D                0,00 C
+07/10/2020 4725-2  Compra com Cartão         166.505                       30,00 D                      
+                 07/10 18:28 BARBEARIA DO RODY                                  
+07/10/2020         Pagto cartão crédito      69.706.313                 2.455,12 D                      
+                 PLATINUM ESTILO MAST                                           
+07/10/2020         Resgate Fundo             51                         2.485,12 C                0,00 C
+08/10/2020         Pagto conta telefone      100.801                      131,67 D                      
+                 NET SERVICOS                                                   
+08/10/2020         Resgate Fundo             51                           131,67 C                0,00 C
+13/10/2020 4725-2  Compra com Cartão         148.778                       34,49 D                      
+                 10/10 13:32 LEROY SAO CAETANO                                  
+13/10/2020         Banco 24 Horas            3.682.500.013.465            170,00 D                      
+                 11/10 09:29 EXTRA AEROPORTO IV                                 
+13/10/2020         Pagamento de Boleto       101.301                       47,70 D                      
+                 ITAU UNIBANCO S.A.                                             
+13/10/2020         Pagamento de Boleto       101.302                      596,91 D                      
+                 ITAU UNIBANCO S.A.                                             
+13/10/2020         Resgate Fundo             51                           849,10 C                0,00 C
+15/10/2020         TED-Crédito em Conta      35.731.927                 4.700,00 C                      
+                 341 7912 24099253000122 CARLOS CANAVES                         
+15/10/2020         TED-Crédito em Conta      672.261.621                   85,03 C                      
+                 341 3789    27271489843 EDUARDO ROMEIR                         
+15/10/2020 4725-2  Transferência enviada     526.813.000.027.080        1.000,00 D                      
+                 15/10 6813      27080-6 DENISE CARNEIR                         
+15/10/2020         Aplicação em Fundo        51                         3.785,03 D                0,00 C
+16/10/2020         TED-Crédito em Conta      34.133.283                   600,00 C                      
+                 102 0001     5478854824 CARLOS CANAVES                         
+16/10/2020         Aplicação em Fundo        51                           600,00 D                0,00 C
+19/10/2020         Impostos                  101.901                      434,95 D                      
+                 DAS - SIMPLES NACIONAL                                         
+19/10/2020         Uol Universo Online       20.420                        57,64 D                      
+                 UNIVERSO ONLINE SA                                             
+19/10/2020         Clube de Benefícios BB    180.001                       90,00 D                      
+                 Clube de beneficios 10/2020                                    
+19/10/2020         Resgate Fundo             51                           582,59 C                0,00 C
+22/10/2020         Pagto cartão crédito      69.684.790                 3.341,91 D                      
+                 PLATINUM ESTILO VISA                                           
+22/10/2020         Brasilprev                4.154                        296,54 D                      
+                 BRASILPREV SEGUROS                                             
+22/10/2020         Brasilprev                4.154                        296,54 D                      
+                 BRASILPREV SEGUROS                                             
+22/10/2020         Resgate Fundo             51                         3.934,99 C                0,00 C
+23/10/2020         TED-Crédito em Conta      710.250.564                  673,22 C                      
+                 341 0176 28924566000129 CIANO IMOVEIS                          
+23/10/2020 4725-2  Compra com Cartão         135.586                       29,88 D                      
+                 23/10 09:53 BJP                                                
+23/10/2020 4725-2  Compra com Cartão         250.576                       23,60 D                      
+                 23/10 14:02 GIARDINO DI PANE                                   
+23/10/2020         Banco 24 Horas            3.592.900.840.565             90,00 D                      
+                 23/10 09:30 CARREFOUR JUNDIAI I                                
+23/10/2020         Aplicação em Fundo        51                           529,74 D                0,00 C
+26/10/2020         Pagamento Pedágio         11.806                       213,56 D                      
+                 SEM PARAR                                                      
+26/10/2020         Resgate Fundo             51                           213,56 C                0,00 C
+28/10/2020         Emissão de DOC            102.801                      104,63 D                      
+                 341 3789 27271489843 EDUARDO ROMEIRO B                         
+28/10/2020         Resgate Fundo             51                           104,63 C                0,00 C
+31/10/2020         S A L D O                                                                       0,00 C
+--------------------------------------------------------------------------------
+- Limite Cheque Especial                                              5.800,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                7,69%
+Taxa Cheque Especial AO ANO                                              143,28%
+DT. VENC. CH. ESP.                                                    29/01/2021
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+ Valor total devido                                 5.800,00                   -
+ Valor liberado                                     5.800,00              100,00
+Despesas Vinculadas                                                             
+ - Tributos IOF                                         0,00                0,00
+                                                                                
+                ------------------------------------------------                
+                                                                                
+                                                                                

@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+27/12/2020                       Auto-Atendimento                       09:21:58
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 5549.****.****.7938         
+Modalidade      : OUROCARD PLATINUM ESTILO MASTERCARD
+ 
+Vencimento      : 07.11.2020          
+Total da fatura : R$ 2.136,96       
+Pagamento mínimo: R$ 320,54         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1 - CARLOS CANAVESI                         
+                                                     
+         SALDO FATURA ANTERIOR                  BR          2.455,12        0,00
+                                                     
+ 
+         Pagamentos/Créditos                         
+07.10.2020PGTO DEBITO CONTA 4725 000007025  200211           -2.455,12        0,00
+                                                     
+ 
+         Restaurantes                                
+26.09.2020QUINTAL FRATELLI       JUNDIAI       BRA               51,00        0,00
+28.09.2020SACOLAO STA CATARINA L SAO PAULO     BRA               84,17        0,00
+03.10.2020QUINTAL FRATELLI       JUNDIAI       BRA               54,00        0,00
+                                                     
+ 
+         Serviços                                    
+26.09.2020VIA VERDE POSTO SERVIC JUNDIAI       BRA              135,31        0,00
+28.09.2020CATHO ONLINE           Barueri       BRA              149,70        0,00
+04.10.2020RI HAPPY BRINQUEDOS    SAO PAULO     BRA              269,98        0,00
+                                                     
+ 
+         Supermercados                               
+24.09.2020CARREFOUR JDI 37       JUNDIAI       BRA              175,00        0,00
+26.09.2020COOPERCICA             JUNDIAI       BRA              106,79        0,00
+06.10.2020SUPERMERCADO BOA       JUNDIAI       BRA              181,58        0,00
+                                                     
+ 
+         Transporte                                  
+04.10.2020EBANX       *SPOTIFY   CURITIBA      BRA               26,90        0,00
+                                                     
+ 
+         Vestuário                                   
+30.09.2020ADIDAS DO BRASIL       ITUPEVA       BRA               79,99        0,00
+                                                     
+ 
+         Compras parceladas                          
+25.01.2020KAZA DO SOFA  PARC 09/12 SAO PAULO   BR              164,58        0,00
+25.09.2020PAG*JoseCicer PARC 01/02 JUNDIAI     BR              230,00        0,00
+28.09.2020CARREFOUR JDI PARC 01/03 JUNDIAI     BR              101,64        0,00
+15.05.2020MAGALU PAGAM* PARC 06/06 SAO PAULO   BR              326,32        0,00
+                                                     
+ 
+         SubTotal                                           2.136,96        0,00
+                                                     
+ 
+         Total                                              2.136,96        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  2.455,12 -  -2.455,12 +   2.136,96 =    2.136,96 -       0,00 =       2.136,96
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 5.349,00
+Saques                               : 5.349,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 8.260,00
+Crediário                            :    0,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,98     10,90
+Crédito Parcelado:                  6,09      8,37
+Permanência      :                  1,00      1,00
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PONTO PRA VOCÊ/LIVELO
+--------------------------------------------------------------------------------
+    Pontuação acumulada Até 23.10.2020 :  28.257
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
