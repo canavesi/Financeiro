@@ -1,156 +1,57 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                 SISBB - Sistema de Informações Banco do Brasil                 
-04/01/2016                       Auto-Atendimento                       10:20:26
-                           Fatura do Cartão de Crédito                          
- 
- 
-Cliente         : CARLOS CANAVESI                  
-Nr.Cartão       : 4984.****.****.6131         
-Modalidade      : OUROCARD PLATINUM ESTILO VISA    
- 
-Vencimento      : 22.01.2015          
-Total da fatura : R$ 3.412,49       
-Pagamento mínimo: R$ 511,88         
- 
-DEMONSTRATIVO
---------------------------------------------------------------------------------
-Data     Transações                             País        Valor R$   Valor US$
---------------------------------------------------------------------------------
-                                                     
- 
-         1-CARLOS CANAVESI                           
-                                                     
-         SALDO FATURA ANTERIOR                  BR          1.168,26        0,00
-                                                     
- 
-         Pagamentos                                  
-22/12    PGTO DEBITO CONTA 4725 000009715  200  211        -1.168,26        0,00
-                                                     
- 
-         Compras a vista                             
- 
-         Restaurantes                                
-09/12    CANTINA ROPERTO        SAO PAULO       BR            134,20        0,00
-21/12    ESQUINA DO ESPETO      SAO PAULO       BR             96,36        0,00
-27/12    BAR E MERCEARIA CANDRE CAMPINAS        BR             25,90        0,00
-28/12    SALAD CREATIONS        SAO PAULO       BR             50,70        0,00
- 
-         Compras Diversas                            
-13/12    NOSSA CASA PADARIA     SAO PAULO       BR             65,16        0,00
-13/12    PONTAL LOJA 16         SAO PAULO       BR             59,99        0,00
-14/12    CENTRO AUTOMOTIVO FINL SAO PAULO       BR             85,48        0,00
-19/12    DROGARIA SAO PAULO030  SAO PAULO       BR             45,91        0,00
-20/12    EXTRA AEROPORTO 1337   SAO PAULO       BR            247,58        0,00
-20/12    EXTRA AEROPORTO 1337   SAO PAULO       BR             64,13        0,00
-22/12    KOPENHAGEN             SAO PAULO       BR            183,60        0,00
-27/12    AUTO POSTO FINLANDIA   SAO PAULO       BR            130,01        0,00
-28/12    LUIGI BERTOLLI IBIRAPU SAO PAULO       BR             49,10        0,00
-29/12    NOSSA CASA PADARIA     SAO PAULO       BR             57,90        0,00
-30/12    G E G AUTO POSTO       GUARATINGUETA   BR            136,69        0,00
-02/01    SUPERMERCADO SAO ROQUE BOITUVA         BR             94,11        0,00
-02/01    CASA DE CARNES MELARE  BOITUVA         BR            210,00        0,00
-04/01    HOTEL GARRAFAO         BOITUVA         BR            901,00        0,00
-17/12    SQUASHGEAR COM         732-765-8600    NJ              0,00       89,95
-         *** 89,95 DOLAR AMERICANO                   
-19/12    IOF - COMPRA NO EXTERIOR                               0,00        5,74
-         *** 5,74 DOLAR AMERICANO                    
- 
-         Hospitais                                   
-11/12    ULTRAFARMA             SAO PAULO       BR            102,26        0,00
-19/12    ULTRAFARMA             SAO PAULO       BR             66,70        0,00
-                                                     
- 
-         Compras/Pagamento de contas parceladas      
- 
-         Ag&ecirc;ncias de Viagens                   
-24/04    NASCIMENTO TU PARC 09/09 SAO PAULO     BR            269,31        0,00
- 
-         Compras Diversas                            
-11/10    LOJAS RENNER  PARC 03/03 SAO PAULO     BR             70,06        0,00
-                                                     
- 
-         SubTotal                                           3.146,15        0,00
- 
-                                                                0,00       95,69
-                                                     
- 
-         Total                                              3.146,15        0,00
- 
-                                                                0,00       95,69
- 
- 
-RESUMO EM REAL
---------------------------------------------------------------------------------
-   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
-  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
---------------------------------------------------------------------------------
-  1.168,26 -   1.168,26 +   3.146,15 =    3.146,15 -       0,00 =       3.146,15
---------------------------------------------------------------------------------
- 
-RESUMO EM DÓLAR
---------------------------------------------------------------------------------
-  Compras/     Outros                      Saldo       Taxa de         Saldo    
-   Saques      débitos      Créditos      Atual U$    conversão      convertido 
---------------------------------------------------------------------------------
-     89,95 -       5,74 +       0,00 =       95,69   X   2,7834 =         266,34
---------------------------------------------------------------------------------
- 
- 
-LIMITES - R$
---------------------------------------------------------------------------------
-Total para transações à vista        : 5.180,00
-Saques                               : 5.180,00
-(Incluido no total transação à vista)
-Total para transações parceladas     : 5.000,00
-Crediário                            : 14.669,00
- 
- 
-ENCARGOS FINANCEIROS - R$              1         2
---------------------------------------------------------------------------------
-Crédito Rotativo :                  9,59     10,89
-Crédito Parcelado:                  3,69      4,63
-Permanência      :              1.039,00     10,89
-Multa            :                  2,00      2,00
-1. Para o periodo %am         
-2. Máximo próximo periodo %am 
- 
- 
-PROGRAMA PONTO PRA VOCÊ
---------------------------------------------------------------------------------
-    Saldo Anterior                     :   6.967
-(+) Adquiridos                         :   1.794
-(-) Utilizados/Transferidos            :       0
-(-) Prescritos                         :       0
-(+) Acertos                            :       0
-    Pontos a Prescrever Em  31.01.2015 :       0
-    Pontos Intransferíveis             :       0
-    Pontuação acumulada Até 07.01.2015 :   8.761
---------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
+"Data,""Dependencia Origem"",""Histórico"",""Data do Balancete"",""Número do documento"",""Valor"","
+"12/30/2013,"""",""Saldo Anterior"","""",""0"",""-1947.87"","
+"01/02/2014,""4725-2"",""Compra com Cartão - 02/01 17:30 C & A MODAS LJ 115"","""",""63054"",""-11.90"","
+"01/02/2014,""4994-8"",""Saque no TAA - 02/01 17:49 SOP-CENT.PLAZA SHOP"","""",""21749171033889"",""-250.00"","
+"01/02/2014,"""",""Pagamento de Título - ITAU UNIBANCO S.A."","""",""10201"",""-209.00"","
+"01/02/2014,"""",""Cobrança de I.O.F."","""",""391100701"",""-34.49"","
+"01/03/2014,""4994-8"",""Saque no TAA - 03/01 11:54 SOP-CENT.PLAZA SHOP"","""",""31154181033889"",""-30.00"","
+"01/06/2014,"""",""Proventos TED - 237 3168     5478854824 CARLOS CANAVES"","""",""8008842"",""80.00"","
+"01/06/2014,""4725-2"",""Compra com Cartão - 04/01 11:00 CAFE DO PONTO CENTRA"","""",""39629"",""-21.00"","
+"01/06/2014,""4725-2"",""Compra com Cartão - 04/01 11:30    C&C CENTRAL PLAZA"","""",""141448"",""-31.90"","
+"01/06/2014,"""",""Telefone Pre-Pago - 11997570385-Vivo SP"","""",""997570385005948"",""-100.00"","
+"01/07/2014,"""",""Pagamento de Título - BANCO BRADESCO S.A."","""",""10701"",""-264.01"","
+"01/07/2014,"""",""Pagamento de Título - BANCO BRADESCO S.A."","""",""10702"",""-99.40"","
+"01/07/2014,"""",""Pagto cartão crédito"","""",""69706313"",""-3040.24"","
+"01/07/2014,"""",""Pagto Energia Elétrica"","""",""10243"",""-37.46"","
+"01/08/2014,""4725-2"",""Transferido da poupança - 08/01 4725     106049-X CARLOS CANAVES"","""",""4725510106049"",""1200.00"","
+"01/08/2014,"""",""TEC-Transf Esp Crédito - 237 3168     5478854824 CARLOS CANAVES"","""",""1938"",""4201.22"","
+"01/08/2014,""4994-8"",""Saque no TAA - 08/01 19:42 SOP-CENT.PLAZA SHOP"","""",""81942295936131"",""-300.00"","
+"01/09/2014,""4725-2"",""Compra com Cartão - 09/01 12:25    CITRON GASTRONOMI"","""",""144719"",""-16.77"","
+"01/10/2014,""4725-2"",""Compra com Cartão - 10/01 07:41"","""",""127686"",""-4.80"","
+"01/10/2014,""4725-2"",""Compra com Cartão - 10/01 12:07    RESTAURANTE CANAD"","""",""243672"",""-20.55"","
+"01/10/2014,""4725-2"",""Compra com Cartão - 10/01 18:54  CASA PAD E CONV"","""",""368050"",""-43.14"","
+"01/10/2014,""7831-X"",""Saque no TAA - 10/01 12:11 SOP-PARAISO"","""",""101211075936131"",""-90.00"","
+"01/10/2014,"""",""Pagamento de Título - BANCO BRADESCO S.A."","""",""11001"",""-504.13"","
+"01/10/2014,"""",""Pagamento de Título - BANCO BRADESCO S.A."","""",""11002"",""-39.41"","
+"01/10/2014,"""",""Tarifa Pacote de Serviços - Tarifa referente a 10/01/2014"","""",""800101000367306"",""-19.53"","
+"01/10/2014,"""",""Pagto TV por Assinatura"","""",""41843"",""-163.81"","
+"01/13/2014,""6813-6"",""Transferência on line - 13/01 6813      27080-6 DENISE CARNEIR"","""",""526813000027080"",""98.00"","
+"01/14/2014,"""",""Proventos TED - 237 3168     5478854824 CARLOS CANAVES"","""",""5000833"",""48.00"","
+"01/14/2014,""4725-2"",""Compra com Cartão - 14/01 12:16    RESTAURANTE CANAD"","""",""144189"",""-19.95"","
+"01/15/2014,""4725-2"",""Compra com Cartão - 15/01 12:36    CITRON GASTRONOMI"","""",""145366"",""-12.79"","
+"01/16/2014,""4725-2"",""Compra com Cartão - 16/01 07:45"","""",""127906"",""-4.80"","
+"01/17/2014,""4725-2"",""Compra com Cartão - 17/01 18:26 AR STA CATARINA"","""",""166377"",""-15.00"","
+"01/17/2014,"""",""Pagamento de Título - ITAU UNIBANCO S.A."","""",""11701"",""-520.17"","
+"01/17/2014,"""",""Pagamento de Impostos - LICENCIAMENTO SP"","""",""11702"",""-1321.34"","
+"01/17/2014,"""",""Pgto Mensalidade Internet"","""",""20420"",""-22.41"","
+"01/17/2014,"""",""Cobrança de Juros"","""",""511058901"",""-121.90"","
+"01/20/2014,"""",""Proventos TED - 237 3168     5478854824 CARLOS CANAVES"","""",""8475505"",""2496.14"","
+"01/20/2014,""4725-2"",""Compra com Cartão - 18/01 08:07 IA PINGO DOCE"","""",""129239"",""-12.74"","
+"01/20/2014,""4725-2"",""Compra com Cartão - 19/01 13:30    EXTRA AEROPORTO 1"","""",""248627"",""-24.87"","
+"01/20/2014,""4994-8"",""Saque no TAA - 20/01 19:04 SOP-CENT.PLAZA SHOP"","""",""201904515936131"",""-180.00"","
+"01/20/2014,"""",""Banco 24 Horas - 19/01 13:35 TERM. TECBAN 05722"","""",""14020000019898"",""-150.00"","
+"01/20/2014,""1981-X"",""Cheque Compensado"","""",""850716"",""-225.00"","
+"01/21/2014,""4725-2"",""Compra com Cartão - 21/01 10:45 ISCO DENTISTA"","""",""138732"",""-30.00"","
+"01/22/2014,"""",""Pagto cartão crédito"","""",""69684790"",""-652.01"","
+"01/22/2014,"""",""Brasilprev"","""",""13597"",""-300.00"","
+"01/22/2014,"""",""Brasilprev"","""",""13597"",""-200.00"","
+"01/27/2014,""4725-2"",""Transferido da poupança - 27/01 4725     106049-X CARLOS CANAVES"","""",""4725510106049"",""1600.00"","
+"01/27/2014,""4725-2"",""Compra com Cartão - 25/01 10:01 LEROY MERLIN SAO CAE"","""",""36107"",""-18.31"","
+"01/27/2014,""4994-8"",""Saque no TAA - 25/01 14:58 SOP-CENT.PLAZA SHOP"","""",""251458151033889"",""-100.00"","
+"01/27/2014,"""",""Pagamento Pedágio"","""",""11806"",""-50.25"","
+"01/27/2014,"""",""Pagamento OUROCAP"","""",""46301"",""-90.00"","
+"01/29/2014,""4725-2"",""Compra com Cartão - 29/01 12:22 CITRON GASTRONOMIA C"","""",""44555"",""-17.47"","
+"01/30/2014,""4725-2"",""Compra com Cartão - 30/01 12:36 TIZIANOCAPPAE"","""",""45377"",""-23.30"","
+"01/30/2014,""4994-8"",""Saque no TAA - 30/01 19:38 SOP-CENT.PLAZA SHOP"","""",""301938361033889"",""-150.00"","
+"01/31/2014,""4725-2"",""Compra com Cartão - 31/01 12:19 CITRON GASTRONOMIA C"","""",""44397"",""-22.93"","
+"01/31/2014,"""",""S A L D O"","""",""0"",""-1841.29"","
