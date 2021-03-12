@@ -1,5 +1,5 @@
 
-SQL*Loader: Release 11.2.0.1.0 - Production on Qua Jan 20 15:14:09 2021
+SQL*Loader: Release 11.2.0.1.0 - Production on Seg Mar 8 10:12:53 2021
 
 Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
 
@@ -29,24 +29,30 @@ SEQ_LINHA                            NEXT     1           CHARACTER
 DSC_LINHA                           1:299   299           CHARACTER            
 
 value used for ROWS parameter changed from 5000 to 825
+Record 4: Discarded - all columns null.
+Record 9: Discarded - all columns null.
+Record 97: Discarded - all columns null.
+Record 101: Discarded - all columns null.
+Record 105: Discarded - all columns null.
+Record 106: Discarded - all columns null.
 
 Table FIN_EXTRATOS_ITENS_TMP:
-  57 Rows successfully loaded.
+  100 Rows successfully loaded.
   0 Rows not loaded due to data errors.
   0 Rows not loaded because all WHEN clauses were failed.
-  0 Rows not loaded because all fields were null.
+  6 Rows not loaded because all fields were null.
 
 
 Space allocated for bind array:                 255750 bytes(825 rows)
 Read   buffer bytes: 1048576
 
 Total logical records skipped:          0
-Total logical records read:            57
+Total logical records read:           106
 Total logical records rejected:         0
-Total logical records discarded:        0
+Total logical records discarded:        6
 
-Run began on Qua Jan 20 15:14:09 2021
-Run ended on Qua Jan 20 15:14:09 2021
+Run began on Seg Mar 08 10:12:53 2021
+Run ended on Seg Mar 08 10:12:53 2021
 
-Elapsed time was:     00:00:00.07
-CPU time was:         00:00:00.01
+Elapsed time was:     00:00:00.28
+CPU time was:         00:00:00.00

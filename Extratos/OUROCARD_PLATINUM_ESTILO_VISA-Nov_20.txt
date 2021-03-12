@@ -18,7 +18,7 @@
 
 
                  SISBB - Sistema de Informações Banco do Brasil                 
-27/12/2020                       Auto-Atendimento                       09:21:22
+05/03/2021                       Auto-Atendimento                       14:13:32
                            Fatura do Cartão de Crédito                          
  
  
@@ -109,8 +109,8 @@ RESUMO EM DÓLAR
  
 LIMITES - R$
 --------------------------------------------------------------------------------
-Total para transações à vista        : 5.349,00
-Saques                               : 5.349,00
+Total para transações à vista        : 6.954,00
+Saques                               : 6.954,00
 (Incluido no total transação à vista)
 Total para transações parceladas     : 8.260,00
 Crediário                            :    0,00

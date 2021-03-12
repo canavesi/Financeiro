@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+05/03/2021                       Auto-Atendimento                       14:13:08
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 4984.****.****.2665         
+Modalidade      : OUROCARD PLATINUM ESTILO VISA    
+ 
+Vencimento      : 22.09.2020          
+Total da fatura : R$ 2.917,88       
+Pagamento mínimo: R$ 437,68         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1 - CARLOS CANAVESI                         
+                                                     
+         SALDO FATURA ANTERIOR                  BR          3.393,81        0,00
+                                                     
+ 
+         Pagamentos/Créditos                         
+24.08.2020PGTO DEBITO CONTA 4725 000009753  200211           -3.393,81        0,00
+                                                     
+ 
+         Bancos                                      
+20.08.2020MERCPAGO*LOTERIASONLIN OSASCO        BR              252,00        0,00
+27.08.2020MERCPAGO*LOTERIASONLIN OSASCO        BR               36,00        0,00
+31.08.2020MERCPAGO*LOTERIASONLIN OSASCO        BR               36,00        0,00
+03.09.2020MERCPAGO*LOTERIASONLIN OSASCO        BR               36,00        0,00
+                                                     
+ 
+         Restaurantes                                
+14.08.2020VICINO FORNERIA        SAO PAULO     BR               42,00        0,00
+15.08.2020VICINO FORNERIA        SAO PAULO     BR               42,00        0,00
+20.08.2020VICINO FORNERIA        SAO PAULO     BR               42,00        0,00
+22.08.2020COLONIAL PAES E DOCES  Sao Paulo     BR               73,44        0,00
+23.08.2020VICINO FORNERIA        SAO PAULO     BR               42,00        0,00
+05.09.2020FRANGO ASSADO CAIEIRAS CAIEIRAS      BR               36,70        0,00
+                                                     
+ 
+         Saúde                                       
+24.08.2020DROG SAO PAULO FL 1000 SAO PAULO     BR              117,31        0,00
+                                                     
+ 
+         Serviços                                    
+15.08.2020KALUNGA WASHINGTON LUI SAO PAULO     BR              183,50        0,00
+23.08.2020POSTO INVICTO          SAO PAULO     BR              189,23        0,00
+                                                     
+ 
+         Supermercados                               
+15.08.2020EXTRA AEROPORTO 1337   SAO PAULO     BR              320,77        0,00
+22.08.2020EXTRA AEROPORTO 1337   SAO PAULO     BR              160,00        0,00
+                                                     
+ 
+         Outros lançamentos                          
+15.08.2020LATAM AIRLINACCNXW     SAO PAULO     BR              135,04        0,00
+                                                     
+ 
+         Compras parceladas                          
+09.12.2019VIAGENS VISUA PARC 09/10 SANTO ANDRE BR              680,00        0,00
+12.06.2020ALTA VEICULOS PARC 03/04 SAO PAULO   BR              202,50        0,00
+15.08.2020TRAVEL RESERV PARC 01/06 #800-891-384BR              143,14        0,00
+16.07.2020PARC=104CASAS PARC 02/04 RIO DE JANEIBR              148,25        0,00
+                                                     
+ 
+         SubTotal                                           2.917,88        0,00
+                                                     
+ 
+         Total                                              2.917,88        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  3.393,81 -  -3.393,81 +   2.917,88 =    2.917,88 -       0,00 =       2.917,88
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 6.954,00
+Saques                               : 6.954,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 8.260,00
+Crediário                            :    0,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,98     10,90
+Crédito Parcelado:                  6,09      8,37
+Permanência      :                  1,00      1,00
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PONTO PRA VOCÊ/LIVELO
+--------------------------------------------------------------------------------
+    Pontuação acumulada Até 08.09.2020 :  26.564
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

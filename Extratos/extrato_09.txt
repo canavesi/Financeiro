@@ -1,0 +1,119 @@
+                      SISBB - Sistema de Informações Banco do Brasil                      
+05/03/2021                            Auto-Atendimento                            14:27:31
+                                 Extrato de conta corrente                                
+                                                                                
+Agência: 4725-2       Conta: 106049-X
+Cliente: CARLOS CANAVESI
+=============================================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor          Saldo Previsto
+                                                                                
+31/08/2020         Saldo Anterior                                            0,00 C                0,00 C
+03/09/2020 4725-2  Compra com Cartão         834.954                       17,57 D                      
+                 03/09 07:42 EXTRA AEROPORTO 1337                               
+03/09/2020         Banco 24 Horas            3.287.300.828.238            390,00 D                      
+                 03/09 07:29 EXTRA AEROPORTO III                                
+03/09/2020         Resgate Fundo             51                           407,57 C                0,00 C
+04/09/2020         Benefício INSS            177.440.769                3.401,42 C                      
+04/09/2020 4725-2  Transferência enviada     606.813.000.027.080        9.225,00 D                      
+                 04/09 6813      27080-6 DENISE CARNEIR                         
+04/09/2020         Pagamento conta luz       90.401                        37,39 D                      
+                 ELETROPAULO                                                    
+04/09/2020         Resgate Fundo             51                         5.860,97 C                0,00 C
+08/09/2020         Banco 24 Horas            3.287.300.015.038            340,00 D                      
+                 06/09 08:33 EXTRA AEROPORTO III                                
+08/09/2020         Pagto cartão crédito      69.706.313                 1.649,43 D                      
+                 PLATINUM ESTILO MAST                                           
+08/09/2020         Resgate Fundo             51                         1.250,75 C              738,68 D
+09/09/2020 4725-2  Compra com Cartão         128.674                       10,90 D              749,58 D
+                 09/09 07:57 PANIFICADORA FLOR DO                               
+10/09/2020         Pagamento de Boleto       91.001                       596,91 D                      
+                 ITAU UNIBANCO S.A.                                             
+10/09/2020         Pagamento de Boleto       91.002                        47,70 D            1.394,19 D
+                 ITAU UNIBANCO S.A.                                             
+11/09/2020 4725-2  Compra com Cartão         175.639                       48,90 D            1.443,09 D
+                 11/09 21:00 PIZZARIA SERENO                                    
+14/09/2020         DOC Crédito em Conta      100.096                    4.900,00 C                      
+                 341 7912 24099253000122 CARLOS CANAVES                         
+14/09/2020         DOC Crédito em Conta      450.087                    4.900,00 C                      
+                 341 7912 24099253000122 CARLOS CANAVES                         
+14/09/2020         TED-Crédito em Conta      537.653.493                5.600,00 C                      
+                 341 9108 29185279000107 TOP DOWN CONS                          
+14/09/2020 4725-2  Compra com Cartão         148.342                       39,60 D                      
+                 14/09 13:25 GIARDINO DI PANE                                   
+14/09/2020         Banco 24 Horas            4.188.600.341.365            170,00 D                      
+                 13/09 09:47 CARREFOUR JUNDIAI IV                               
+14/09/2020         Aplicação em Fundo        51                         3.947,31 D            9.800,00 C
+15/09/2020 4725-2  Transferência enviada     606.813.000.027.080        2.050,00 D                      
+                 15/09 6813      27080-6 DENISE CARNEIR                         
+15/09/2020         BB RF LP Prefixado        1.200.114                  8.000,00 D                      
+15/09/2020         Resgate Fundo             51                           250,00 C                0,00 C
+16/09/2020         Pagamento conta luz       91.601                        37,39 D                      
+                 ELETROPAULO                                                    
+16/09/2020         Resgate Fundo             51                            37,39 C                0,00 C
+17/09/2020 6813-6  Transferência recebida    606.813.000.027.080        2.950,00 C                      
+                 17/09 6813      27080-6 DENISE CARNEIR                         
+17/09/2020 4725-2  Compra com Cartão         103.800                       45,84 D                      
+                 17/09 17:59 GIARDINO DI PANE                                   
+17/09/2020         TED Transf.Eletr.Disponiv 91.701                       900,00 D                      
+                 341 0713 42505356815 ARIOVALDO ZANAROL                         
+17/09/2020         Uol Universo Online       20.420                        57,64 D                      
+                 UNIVERSO ONLINE SA                                             
+17/09/2020         Cobrança de Juros         511.058.901                   18,48 D                      
+17/09/2020         Aplicação em Fundo        51                         1.928,04 D                0,00 C
+18/09/2020         Devolução Juros-Chq Espec 511.058.901                   18,48 C                      
+18/09/2020         Clube de Benefícios BB    180.001                       90,00 D                      
+                 Clube de beneficios 09/2020                                    
+18/09/2020         Aplicação em Fundo        51                            18,48 D                      
+18/09/2020         Resgate Fundo             51                            90,00 C                0,00 C
+21/09/2020 4725-2  Compra com Cartão         134.917                       34,80 D                      
+                 19/09 09:41 PAG*EmporioSantoExpe                               
+21/09/2020 4725-2  Compra com Cartão         236.390                       32,99 D                      
+                 19/09 10:06 FIRENZE PAES E DOCES                               
+21/09/2020 4725-2  Compra com Cartão         333.774                       27,00 D                      
+                 21/09 09:22 PAG*JPEstacionamento                               
+21/09/2020         TED Transf.Eletr.Disponiv 92.101                       175,90 D                      
+                 237 2971 047833405000174 PANIFICADORA                          
+21/09/2020         Impostos                  92.102                       391,25 D                      
+                 DAS - SIMPLES NACIONAL                                         
+21/09/2020         Resgate Fundo             51                           661,94 C                0,00 C
+22/09/2020         Pagamento conta luz       92.201                         0,23 D                      
+                 ELETROPAULO                                                    
+22/09/2020         Pagto cartão crédito      69.684.790                 2.917,88 D                      
+                 PLATINUM ESTILO VISA                                           
+22/09/2020         Brasilprev                4.154                        296,54 D                      
+                 BRASILPREV SEGUROS                                             
+22/09/2020         Brasilprev                4.154                        296,54 D                      
+                 BRASILPREV SEGUROS                                             
+22/09/2020         Resgate Fundo             51                         3.511,19 C                0,00 C
+25/09/2020         Pagamento Pedágio         11.806                        96,16 D                      
+                 SEM PARAR                                                      
+25/09/2020         Resgate Fundo             51                            96,16 C                0,00 C
+28/09/2020         Banco 24 Horas            3.592.900.831.438            390,00 D                      
+                 28/09 10:42 CARREFOUR JUNDIAI I                                
+28/09/2020         Resgate Fundo             51                           390,00 C                0,00 C
+30/09/2020         Pagamento de Boleto       93.001                       364,26 D                      
+                 HARA E NAKASHIMA                                               
+30/09/2020         Resgate Fundo             51                           364,26 C                      
+30/09/2020         S A L D O                                                                       0,00 C
+--------------------------------------------------------------------------------
+- Limite Cheque Especial                                              5.800,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                7,69%
+Taxa Cheque Especial AO ANO                                              143,28%
+DT. VENC. CH. ESP.                                                    31/01/2022
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+ Valor total devido                                 5.800,00                   -
+ Valor liberado                                     5.800,00              100,00
+Despesas Vinculadas                                                             
+ - Tributos IOF                                         0,00                0,00
+                                                                                
+                O Informe de Rendimentos 2021 ja esta                           
+                disponivel no App BB, nos nossos terminais                      
+                e no portal bb.com.br.                                          
+                                                                                
+                ------------------------------------------------                
+                OBSERVAÇÕES:                                                    
+                ------------------------------------------------                
+                                                                                
+                                                                                

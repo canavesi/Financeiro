@@ -1,5 +1,5 @@
                       SISBB - Sistema de Informações Banco do Brasil                      
-27/12/2020                            Auto-Atendimento                            09:20:21
+05/03/2021                            Auto-Atendimento                            14:28:13
                                  Extrato de conta corrente                                
                                                                                 
 Agência: 4725-2       Conta: 106049-X
@@ -117,7 +117,7 @@ Data     Ag.Org  Histórico                 Documento                       Valor
 --------------------------------------------------------------------------------
 Taxa Cheque Especial AO MÊS                                                7,69%
 Taxa Cheque Especial AO ANO                                              143,28%
-DT. VENC. CH. ESP.                                                    29/01/2021
+DT. VENC. CH. ESP.                                                    31/01/2022
 --------------------------------------------------------------------------------
 Informações Complementares - CET (*)                      R$                   %
  Valor total devido                                 5.836,30                   -
@@ -125,6 +125,12 @@ Informações Complementares - CET (*)                      R$                   %
 Despesas Vinculadas                                                             
  - Tributos IOF                                        36,30                0,62
                                                                                 
+                O Informe de Rendimentos 2021 ja esta                           
+                disponivel no App BB, nos nossos terminais                      
+                e no portal bb.com.br.                                          
+                                                                                
+                ------------------------------------------------                
+                OBSERVAÇÕES:                                                    
                 ------------------------------------------------                
                                                                                 
                                                                                 

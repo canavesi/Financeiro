@@ -18,7 +18,7 @@
 
 
                  SISBB - Sistema de Informações Banco do Brasil                 
-18/12/2020                       Auto-Atendimento                       09:23:07
+05/03/2021                       Auto-Atendimento                       14:17:54
                            Fatura do Cartão de Crédito                          
  
  
@@ -26,9 +26,9 @@ Cliente         : CARLOS CANAVESI
 Nr.Cartão       : 5549.****.****.7938         
 Modalidade      : OUROCARD PLATINUM ESTILO MASTERCARD
  
-Vencimento      : 07.12.2020          
-Total da fatura : R$ 1.392,66       
-Pagamento mínimo: R$ 208,90         
+Vencimento      : 07.10.2020          
+Total da fatura : R$ 2.455,12       
+Pagamento mínimo: R$ 368,27         
  
 DEMONSTRATIVO
 --------------------------------------------------------------------------------
@@ -38,47 +38,51 @@ Data     Transações                             País        Valor R$   Valor US$
  
          1 - CARLOS CANAVESI                         
                                                      
-         SALDO FATURA ANTERIOR                  BR          2.136,96        0,00
+         SALDO FATURA ANTERIOR                  BR          1.649,43        0,00
                                                      
  
          Pagamentos/Créditos                         
-09.11.2020PGTO DEBITO CONTA 4725 000007025  200211           -2.136,96        0,00
+08.09.2020PGTO DEBITO CONTA 4725 000007025  200211           -1.649,43        0,00
                                                      
  
          Restaurantes                                
-31.10.2020QUINTAL FRATELLI       JUNDIAI       BRA               85,00        0,00
-01.11.2020QUINTAL FRATELLI       JUNDIAI       BRA              113,00        0,00
-03.11.2020DOM CULINARIO          SAO PAULO     BRA              134,37        0,00
-05.11.2020SACOLAO STA CATARINA L SAO PAULO     BRA               90,00        0,00
-                                                     
- 
-         Saúde                                       
-31.10.2020HNA*OBOTICARIO         CURITIBA      BRA               78,80        0,00
+29.08.2020VICINO FORNERIA        SAO PAULO     BRA               47,50        0,00
+29.08.2020COLONIAL PAES E DOCES  SAO PAULO     BRA              101,00        0,00
+04.09.2020VICINO FORNERIA        SAO PAULO     BRA               42,00        0,00
+05.09.2020VICINO FORNERIA        SAO PAULO     BRA               42,00        0,00
+05.09.2020RODOSNACK LANCHONETE E JUNDIAI       BRA               88,90        0,00
+10.09.2020VICINO FORNERIA        SAO PAULO     BRA               53,50        0,00
+12.09.2020PAG*EmporioPizzariaEC  JUNDIAI       BRA               44,90        0,00
                                                      
  
          Serviços                                    
-03.11.2020KALUNGA WASHINGTON LUI SAO PAULO     BRA               98,40        0,00
-07.11.2020LOJAS AMERICANAS 1153  JUNDIAI       BRA               69,99        0,00
+29.08.2020KALUNGA WASHINGTON LUI SAO PAULO     BRA               86,29        0,00
+30.08.2020NICOM COM MATS CONSTR  SAO PAULO     BRA              203,29        0,00
+07.09.2020.                      RIO DE JANEIR BRA              307,50        0,00
+12.09.2020POSTO INVICTO          SAO PAULO     BRA              196,15        0,00
+22.09.2020GIARDINO DI PANE       JUNDIAI       BRA               72,66        0,00
                                                      
  
          Supermercados                               
-31.10.2020IRMAOS BOA LTDA        JUNDIAI       BRA              200,00        0,00
+29.08.2020EXTRA AEROPORTO 1337   SAO PAULO     BRA              240,00        0,00
+06.09.2020EXTRA AEROPORTO 1337   SAO PAULO     BRA              118,00        0,00
+12.09.2020EXTRA 1386 LOJA JUNDIA JUNDIAI       BRA              150,00        0,00
                                                      
  
          Transporte                                  
-01.11.2020EBANX       *SPOTIFY   CURITIBA      BRA               26,90        0,00
+01.09.2020EBANX       *SPOTIFY   CURITIBA      BRA               26,90        0,00
                                                      
  
          Compras parceladas                          
-25.01.2020KAZA DO SOFA  PARC 10/12 SAO PAULO   BR              164,58        0,00
-25.09.2020PAG*JoseCicer PARC 02/02 JUNDIAI     BR              230,00        0,00
-28.09.2020CARREFOUR JDI PARC 02/03 JUNDIAI     BR              101,62        0,00
+25.01.2020KAZA DO SOFA  PARC 08/12 SAO PAULO   BR              164,58        0,00
+06.04.2020MAGALU PAGAM* PARC 06/06 SAO PAULO   BR              143,63        0,00
+15.05.2020MAGALU PAGAM* PARC 05/06 SAO PAULO   BR              326,32        0,00
                                                      
  
-         SubTotal                                           1.392,66        0,00
+         SubTotal                                           2.455,12        0,00
                                                      
  
-         Total                                              1.392,66        0,00
+         Total                                              2.455,12        0,00
  
  
 RESUMO EM REAL
@@ -86,7 +90,7 @@ RESUMO EM REAL
    Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
   Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
 --------------------------------------------------------------------------------
-  2.136,96 -  -2.136,96 +   1.392,66 =    1.392,66 -       0,00 =       1.392,66
+  1.649,43 -  -1.649,43 +   2.455,12 =    2.455,12 -       0,00 =       2.455,12
 --------------------------------------------------------------------------------
  
 RESUMO EM DÓLAR
@@ -100,8 +104,8 @@ RESUMO EM DÓLAR
  
 LIMITES - R$
 --------------------------------------------------------------------------------
-Total para transações à vista        : 5.349,00
-Saques                               : 5.349,00
+Total para transações à vista        : 6.954,00
+Saques                               : 6.954,00
 (Incluido no total transação à vista)
 Total para transações parceladas     : 8.260,00
 Crediário                            :    0,00
@@ -119,7 +123,7 @@ Multa            :                  2,00      2,00
  
 PONTO PRA VOCÊ/LIVELO
 --------------------------------------------------------------------------------
-    Pontuação acumulada Até 24.11.2020 :  29.604
+    Pontuação acumulada Até 22.09.2020 :  26.948
 --------------------------------------------------------------------------------
 
 

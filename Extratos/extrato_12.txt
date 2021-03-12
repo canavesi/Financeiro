@@ -1,5 +1,5 @@
                       SISBB - Sistema de Informações Banco do Brasil                      
-22/12/2020                            Auto-Atendimento                            14:28:24
+05/03/2021                            Auto-Atendimento                            14:28:35
                                  Extrato de conta corrente                                
                                                                                 
 Agência: 4725-2       Conta: 106049-X
@@ -58,26 +58,36 @@ Data     Ag.Org  Histórico                 Documento                       Valor
 18/12/2020         Estorno Resgate Automátic 51                            65,09 D                      
 18/12/2020         Resgate Fundo             51                            57,64 C                      
 18/12/2020         Resgate Fundo             51                           390,00 C                0,00 C
-22/12/2020 9001-8  Brasilprev                4.154                        150,00 D                      
-22/12/2020 9001-8  Brasilprev                4.154                        150,00 D                      
-22/12/2020         S A L D O                                                                     300,00 D
+22/12/2020         Pagto cartão crédito      69.684.790                 2.115,21 D                      
+                 PLATINUM ESTILO VISA                                           
+22/12/2020         Brasilprev                4.154                        150,00 D                      
+                 BRASILPREV SEGUROS                                             
+22/12/2020         Brasilprev                4.154                        150,00 D                      
+                 BRASILPREV SEGUROS                                             
+22/12/2020         Resgate Fundo             51                         1.227,47 C            1.187,74 D
+23/12/2020         PIX - Enviado             122.301                      133,11 D            1.320,85 D
+                 23/12 08:50 EDUARDO ROMEIRO BOMK                               
+24/12/2020 4725-2  Compra com Cartão         141.627                       16,50 D            1.337,35 D
+                 24/12 11:33 PAN FLOR CAMPO BE                                  
+28/12/2020 4725-2  Compra com Cartão         130.321                       10,00 D                      
+                 25/12 08:25 PAN FLOR CAMPO BE                                  
+28/12/2020 4725-2  Compra com Cartão         246.099                       38,03 D                      
+                 25/12 12:48 FIRENZE PAES E DOCES                               
+28/12/2020         Banco 24 Horas            3.316.500.321.338             40,00 D                      
+                 28/12 10:57 SUP BOA NOVO RETIRO II                             
+28/12/2020         Banco 24 Horas            3.316.500.321.538            180,00 D                      
+                 28/12 10:59 SUP BOA NOVO RETIRO II                             
+28/12/2020         Pagamento Pedágio         11.806                       114,16 D            1.719,54 D
+                 SEM PARAR                                                      
+30/12/2020         PIX - Enviado             123.001                       27,00 D            1.746,54 D
+                 30/12 15:28 Marcel Canavesi Polo                               
+31/12/2020         S A L D O                                                                   1.746,54 D
 --------------------------------------------------------------------------------
-Invest.com Resgate Autom.                                             1.227,47 C
-Saldo Aprovisionado no Dia                                            2.115,21 D
-Saldo                                                                 1.187,74 D
-CHEQUE ESPECIAL - LIMITES                                                       
-- Limite Contratado                                                   5.800,00 C
-- Limite Utilizado                                                    1.187,74 D
-- Limite Disponivel                                                   4.612,26 C
-Dias de Uso Ch. Especial                                                    0,00
-Juros                                                                       0,00
-Data de Debito de Juros                                            18./01./20,21
-IOF                                                                         0,07
-Data de Debito de IOF                                               4./01./20,21
+- Limite Cheque Especial                                              5.800,00 C
 --------------------------------------------------------------------------------
 Taxa Cheque Especial AO MÊS                                                7,69%
 Taxa Cheque Especial AO ANO                                              143,28%
-DT. VENC. CH. ESP.                                                    29/01/2021
+DT. VENC. CH. ESP.                                                    31/01/2022
 --------------------------------------------------------------------------------
 Informações Complementares - CET (*)                      R$                   %
  Valor total devido                                 5.800,00                   -
@@ -85,33 +95,12 @@ Informações Complementares - CET (*)                      R$                   %
 Despesas Vinculadas                                                             
  - Tributos IOF                                         0,00                0,00
                                                                                 
-=============================================================================================================
-                                   Lançamentos  Futuros                                   
+                O Informe de Rendimentos 2021 ja esta                           
+                disponivel no App BB, nos nossos terminais                      
+                e no portal bb.com.br.                                          
                                                                                 
-22/12/2020   PGT CARTAO                    69.684.790                   2.115,21
-28/12/2020   PEDAGIO                       11.806                         114,16
-11/01/2021   PAG BOLETO                    11.102                          47,70
-11/01/2021   PAG BOLETO                    11.101                         601,26
-18/01/2021   D.AUTORIZ.                    20.420                          40,33
-                                                                                
-=============================================================================================================
-                             Saldo de Fundos de Investimentos                             
-                                                                                
-BB LCA POS CDI                                                         10.011,43
-Ações Energia                                                           6.563,07
-BB Automático Estilo                                                    1.227,50
-Ações Petrobras                                                         2.024,72
-RF LP Prefixado                                                        13.225,70
-Ações Constr Civil                                                      2.223,98
-Ações Infraestrutura                                                    5.047,13
-Ações Petrobras I                                                       6.351,15
-T O T A L                                                              46.674,68
-                                                                                
-                ------------------------------------------------                
-                Taxa Máxima Conta Especial: 7,73% P/você: 7,69%*                
                 ------------------------------------------------                
                 OBSERVAÇÕES:                                                    
-                   - INFORMAÇÕES CDC INDISP. TEMPORARIAMENTE                    
                 ------------------------------------------------                
                                                                                 
                                                                                 

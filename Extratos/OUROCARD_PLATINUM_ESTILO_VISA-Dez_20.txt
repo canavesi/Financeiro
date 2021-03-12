@@ -18,7 +18,7 @@
 
 
                  SISBB - Sistema de Informações Banco do Brasil                 
-18/12/2020                       Auto-Atendimento                       09:22:24
+05/03/2021                       Auto-Atendimento                       14:13:51
                            Fatura do Cartão de Crédito                          
  
  
@@ -26,9 +26,9 @@ Cliente         : CARLOS CANAVESI
 Nr.Cartão       : 4984.****.****.2665         
 Modalidade      : OUROCARD PLATINUM ESTILO VISA    
  
-Vencimento      : 22.11.2020          
-Total da fatura : R$ 2.668,84       
-Pagamento mínimo: R$ 400,33         
+Vencimento      : 22.12.2020          
+Total da fatura : R$ 2.115,21       
+Pagamento mínimo: R$ 317,28         
  
 DEMONSTRATIVO
 --------------------------------------------------------------------------------
@@ -38,56 +38,54 @@ Data     Transações                             País        Valor R$   Valor US$
  
          1 - CARLOS CANAVESI                         
                                                      
-         SALDO FATURA ANTERIOR                  BR          3.341,91        0,00
+         SALDO FATURA ANTERIOR                  BR          2.668,84        0,00
                                                      
  
          Pagamentos/Créditos                         
-22.10.2020PGTO DEBITO CONTA 4725 000009753  200211           -3.341,91        0,00
-                                                     
- 
-         Bancos                                      
-12.10.2020MERCPAGO*LOTERIASONLIN OSASCO        BR              252,00        0,00
-05.11.2020MERCPAGO*LOTERIASONLIN OSASCO        BR              252,00        0,00
+09.12.2020ESTORNO  ANUIDADE                    BR              -41,50        0,00
+23.11.2020PGTO DEBITO CONTA 4725 000009753  200211           -2.668,84        0,00
                                                      
  
          Restaurantes                                
-08.10.2020QUINTAL FRATELLI       JUNDIAI       BR               54,00        0,00
-14.10.2020SACOLAO STA CATARINA L SAO PAULO     BR              155,14        0,00
-17.10.2020PIZZA BAR              JUNDIAI       BR               60,50        0,00
-21.10.2020COLONIAL PAES E DOCES  Sao Paulo     BR               68,53        0,00
-23.10.2020BIERGARTEN             Itupeva       BR              100,00        0,00
-23.10.2020QUINTAL FRATELLI       JUNDIAI       BR               59,00        0,00
-05.11.2020COLONIAL PAES E DOCES  Sao Paulo     BR               80,45        0,00
-07.11.2020HASHI EXPRESS          JUNDIAI       BR               82,57        0,00
-                                                     
- 
-         Saúde                                       
-14.10.2020DROG SAO PAULO 0283    SAO PAULO     BR               67,38        0,00
+11.11.2020COLONIAL PAES E DOCES  Sao Paulo     BR               94,29        0,00
+15.11.2020STUZZI CB              Sao Paulo     BR               45,50        0,00
+15.11.2020QUINTAL FRATELLI       JUNDIAI       BR               59,00        0,00
+17.11.2020HASHI EXPRESS          JUNDIAI       BR               90,11        0,00
+21.11.2020QUINTAL FRATELLI       JUNDIAI       BR               59,00        0,00
+24.11.2020M P ALVES SHIMABUKURO  JUNDIAI       BR               56,90        0,00
                                                      
  
          Serviços                                    
-10.10.2020POSTO INVICTO          SAO PAULO     BR              136,94        0,00
-15.10.2020MLP*MAGAZINELUIZA      SAO PAULO     BR               53,07        0,00
-20.10.2020GIARDINO DI PANE       JUNDIAI       BR               45,18        0,00
-24.10.2020VIA VERDE POSTO SERVIC JUNDIAI       BR              150,00        0,00
-26.10.2020TOKIO MARINE*Auto 2 de SAO PAULO     BR              307,57        0,00
+14.11.2020DAISO 39               JUNDIAI       BR               33,96        0,00
+14.11.2020POSTO PROGRESSO ELOY C JUNDIAI       BR              143,14        0,00
+20.11.2020PET NIVA               JUNDIAI       BR               84,70        0,00
+21.11.2020BJP                    JUNDIAI       BR               40,84        0,00
+25.11.2020TOKIO MARINE*Auto 3 de SAO PAULO     BR              307,57        0,00
                                                      
  
          Supermercados                               
-11.10.2020AEROPORTO              SAO PAULO     BR              150,00        0,00
-17.10.2020SUPERMERCADO BOA       JUNDIAI       BR              153,13        0,00
-23.10.2020CARREFOUR 37 JDI JUNDI JUNDIAI       BR              150,00        0,00
+14.11.2020IRMAOS BOA LTDA        JUNDIAI       BR              178,72        0,00
+20.11.2020SUPERMERCADO BOA       JUNDIAI       BR              563,10        0,00
+                                                     
+ 
+         Vestuário                                   
+24.11.2020COTTON ON              JUNDIAI       BR               52,43        0,00
+                                                     
+ 
+         Outros lançamentos                          
+08.12.2020ANUIDADE DIFERENCIADA TIT-PARC 01/12 BR               41,50        0,00
                                                      
  
          Compras parceladas                          
-15.08.2020TRAVEL RESERV PARC 03/06 #800-891-384BR              143,13        0,00
-16.07.2020PARC=104CASAS PARC 04/04 RIO DE JANEIBR              148,25        0,00
+15.08.2020TRAVEL RESERV PARC 04/06 #800-891-384BR              143,13        0,00
+20.11.2020ACOM MKT PLAC PARC 01/03 RIO DE JANEIBR               59,98        0,00
+20.11.2020ACOM MKT PLAC PARC 01/03 RIO DE JANEIBR              102,84        0,00
                                                      
  
-         SubTotal                                           2.668,84        0,00
+         SubTotal                                           2.115,21        0,00
                                                      
  
-         Total                                              2.668,84        0,00
+         Total                                              2.115,21        0,00
  
  
 RESUMO EM REAL
@@ -95,7 +93,7 @@ RESUMO EM REAL
    Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
   Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
 --------------------------------------------------------------------------------
-  3.341,91 -  -3.341,91 +   2.668,84 =    2.668,84 -       0,00 =       2.668,84
+  2.668,84 -  -2.710,34 +   2.156,71 =    2.115,21 -       0,00 =       2.115,21
 --------------------------------------------------------------------------------
  
 RESUMO EM DÓLAR
@@ -109,8 +107,8 @@ RESUMO EM DÓLAR
  
 LIMITES - R$
 --------------------------------------------------------------------------------
-Total para transações à vista        : 5.349,00
-Saques                               : 5.349,00
+Total para transações à vista        : 6.954,00
+Saques                               : 6.954,00
 (Incluido no total transação à vista)
 Total para transações parceladas     : 8.260,00
 Crediário                            :    0,00
@@ -128,7 +126,7 @@ Multa            :                  2,00      2,00
  
 PONTO PRA VOCÊ/LIVELO
 --------------------------------------------------------------------------------
-    Pontuação acumulada Até 09.11.2020 :  29.113
+    Pontuação acumulada Até 08.12.2020 :  30.313
 --------------------------------------------------------------------------------
 
 
