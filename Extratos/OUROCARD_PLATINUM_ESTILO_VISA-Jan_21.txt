@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 SISBB - Sistema de Informações Banco do Brasil                 
+16/03/2021                       Auto-Atendimento                       07:38:19
+                           Fatura do Cartão de Crédito                          
+ 
+ 
+Cliente         : CARLOS CANAVESI                  
+Nr.Cartão       : 4984.****.****.2665         
+Modalidade      : OUROCARD PLATINUM ESTILO VISA    
+ 
+Vencimento      : 22.01.2021          
+Total da fatura : R$ 2.617,70       
+Pagamento mínimo: R$ 392,66         
+ 
+DEMONSTRATIVO
+--------------------------------------------------------------------------------
+Data     Transações                             País        Valor R$   Valor US$
+--------------------------------------------------------------------------------
+                                                     
+ 
+         1 - CARLOS CANAVESI                         
+                                                     
+         SALDO FATURA ANTERIOR                  BR          2.115,21        0,00
+                                                     
+ 
+         Pagamentos/Créditos                         
+22.12.2020PGTO DEBITO CONTA 4725 000009753  200211           -2.115,21        0,00
+                                                     
+ 
+         Restaurantes                                
+11.12.2020QUINTAL FRATELLI       JUNDIAI       BR               59,00        0,00
+19.12.2020HASHI EXPRESS          JUNDIAI       BR              117,67        0,00
+19.12.2020QUINTAL FRATELLI       JUNDIAI       BR               59,00        0,00
+                                                     
+ 
+         Saúde                                       
+20.12.2020DROGARIA SAO PAULO     OSASCO        BR              196,42        0,00
+                                                     
+ 
+         Serviços                                    
+11.12.2020FIRENZE PAES E DOCES   SAO PAULO     BR               48,70        0,00
+15.12.2020MAGALU *MAGAZINELUIZA  FRANCA        BR               89,90        0,00
+16.12.2020CARREFOUR PST 397 PJD  JUNDIAI       BR              140,51        0,00
+24.12.2020NICOM COM MATS CONSTR  SAO PAULO     BR               35,70        0,00
+24.12.2020CASA CARNES T AMERICAS SAO PAULO     BR               38,53        0,00
+26.12.2020FIRENZE PAES E DOCES L SAO PAULO     BR              105,97        0,00
+28.12.2020TOKIO MARINE*AUTO4DE6  SAO PAULO     BR              307,57        0,00
+                                                     
+ 
+         Supermercados                               
+12.12.2020SUPERMERCADO GALASSI   CAMPINAS      BR              216,14        0,00
+16.12.2020IRMAOS BOA LTDA        JUNDIAI       BR              500,00        0,00
+16.12.2020CARREFOUR 37 JDI JUNDI JUNDIAI       BR              109,00        0,00
+26.12.2020AEROPORTO              SAO PAULO     BR              107,68        0,00
+                                                     
+ 
+         Vestuário                                   
+16.12.2020ADIDAS JUNDIAI         JUNDIAI       BR              179,99        0,00
+                                                     
+ 
+         Compras parceladas                          
+15.08.2020TRAVEL RESERV PARC 05/06 #800-891-384BR              143,13        0,00
+20.11.2020ACOM MKT PLAC PARC 02/03 RIO DE JANEIBR               59,96        0,00
+20.11.2020ACOM MKT PLAC PARC 02/03 RIO DE JANEIBR              102,83        0,00
+                                                     
+ 
+         SubTotal                                           2.617,70        0,00
+                                                     
+ 
+         Total                                              2.617,70        0,00
+ 
+ 
+RESUMO EM REAL
+--------------------------------------------------------------------------------
+   Saldo      Pagamento/    Compras/       Total     Lim. extra         Saldo   
+  Anterior     Créditos     Débitos          R$       utilizado      Atual - R$ 
+--------------------------------------------------------------------------------
+  2.115,21 -  -2.115,21 +   2.617,70 =    2.617,70 -       0,00 =       2.617,70
+--------------------------------------------------------------------------------
+ 
+RESUMO EM DÓLAR
+--------------------------------------------------------------------------------
+  Compras/     Outros                      Saldo       Taxa de         Saldo    
+   Saques      débitos      Créditos      Atual U$    conversão      convertido 
+--------------------------------------------------------------------------------
+      0,00 -       0,00 +       0,00 =        0,00   X   0,0000 =           0,00
+--------------------------------------------------------------------------------
+ 
+ 
+LIMITES - R$
+--------------------------------------------------------------------------------
+Total para transações à vista        : 6.954,00
+Saques                               : 6.954,00
+(Incluido no total transação à vista)
+Total para transações parceladas     : 8.260,00
+Crediário                            :    0,00
+ 
+ 
+ENCARGOS FINANCEIROS - R$              1         2
+--------------------------------------------------------------------------------
+Crédito Rotativo :                  9,98     10,90
+Crédito Parcelado:                  6,09      8,37
+Permanência      :                  1,00      1,00
+Multa            :                  2,00      2,00
+1. Para o periodo %am         
+2. Máximo próximo periodo %am 
+ 
+ 
+PONTO PRA VOCÊ/LIVELO
+--------------------------------------------------------------------------------
+    Pontuação acumulada Até 07.01.2021 :  31.247
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

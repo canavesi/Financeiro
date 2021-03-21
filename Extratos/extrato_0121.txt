@@ -1,0 +1,84 @@
+                      SISBB - Sistema de Informações Banco do Brasil                      
+16/03/2021                            Auto-Atendimento                            07:37:30
+                                 Extrato de conta corrente                                
+                                                                                
+Agência: 4725-2       Conta: 106049-X
+Cliente: CARLOS CANAVESI
+=============================================================================================================
+Data     Ag.Org  Histórico                 Documento                       Valor          Saldo Previsto
+                                                                                
+30/12/2020         Saldo Anterior                                        1.746,54 D            1.746,54 D
+04/01/2021         Cobrança de I.O.F.        391.100.701                    0,08 D            1.746,62 D
+05/01/2021 4725-2  Compra com Cartão         167.903                       23,89 D            1.770,51 D
+                 05/01 18:51 GIARDINO DI PANE                                   
+06/01/2021 4725-2  Compra com Cartão         154.274                        9,00 D                      
+                 06/01 15:04 MULTIPLAN ADMINISTRA                               
+06/01/2021 4725-2  Compra com Cartão         256.154                       50,00 D            1.829,51 D
+                 06/01 15:35 EWC LAVAGEM DE VEICU                               
+07/01/2021         Benefício INSS            177.440.769                3.401,42 C                      
+07/01/2021 4725-2  Compra com Cartão         162.636                       35,00 D                      
+                 07/01 17:23 BARBEARIA DO RODY                                  
+07/01/2021         Impostos                  10.701                     1.909,03 D                      
+                 SEFAZ SP                                                       
+07/01/2021         Impostos                  10.702                        98,91 D                      
+                 LICENCIAMENTO SP                                               
+07/01/2021         Pagto cartão crédito      69.706.313                 1.720,53 D            2.191,56 D
+                 PLATINUM ESTILO MAST                                           
+08/01/2021         Recebimento Fornecedor    727.121                    1.999,88 C                      
+                 PJBANK PAGAMENTOS S.A.                                         
+08/01/2021         Banco 24 Horas            4.646.100.454.165            100,00 D                      
+                 08/01 10:07 SUP BOA NOVO RETIRO V                              
+08/01/2021         Pagto conta telefone      10.801                       344,98 D              636,66 D
+                 NET SERVICOS                                                   
+11/01/2021         Pagamento de Boleto       11.101                       601,26 D                      
+                 ITAU UNIBANCO S.A.                                             
+11/01/2021         Pagamento de Boleto       11.102                        47,70 D                      
+                 ITAU UNIBANCO S.A.                                             
+11/01/2021         PIX - Enviado             11.103                       430,00 D            1.715,62 D
+                 09/01 12:06 Denise Carneiro Corazza                            
+15/01/2021         TED-Crédito em Conta      33.684.154                   258,99 C                      
+                 102 0001     5478854824 CARLOS CANAVES                         
+15/01/2021 4725-2  Compra com Cartão         131.926                       20,90 D            1.477,53 D
+                 15/01 08:52 IRMAOS BOA LTDA                                    
+18/01/2021 4725-2  Transferido da poupança   4.725.510.106.049            209,43 C                      
+                 17/01 4725     106049-X CARLOS CANAVES                         
+18/01/2021         Uol Universo Online       20.420                        40,33 D                      
+                 UNIVERSO ONLINE SA                                             
+18/01/2021         Clube de Benefícios BB    180.001                       90,00 D                      
+                 Clube de beneficios 01/2021                                    
+18/01/2021         Cobrança de Juros         511.058.901                  104,51 D            1.502,94 D
+21/01/2021         PIX - Enviado             12.101                       103,65 D            1.606,59 D
+                 21/01 17:28 EDUARDO ROMEIRO BOMK                               
+22/01/2021 4725-2  Compra com Cartão         142.622                       22,98 D                      
+                 22/01 11:50 BJP                                                
+22/01/2021         Banco 24 Horas            3.316.500.489.065            170,00 D                      
+                 22/01 13:44 SUP BOA NOVO RETIRO II                             
+22/01/2021         Pagto cartão crédito      69.684.790                 2.617,70 D                      
+                 PLATINUM ESTILO VISA                                           
+22/01/2021         Brasilprev                4.154                        150,00 D                      
+                 BRASILPREV SEGUROS                                             
+22/01/2021         Brasilprev                4.154                        150,00 D            4.717,27 D
+                 BRASILPREV SEGUROS                                             
+26/01/2021         Pagamento Pedágio         11.806                       211,00 D            4.928,27 D
+                 SEM PARAR                                                      
+28/01/2021         Recebimento Fornecedor    146.165                    1.999,88 C            2.928,39 D
+                 PJBANK PAGAMENTOS S.A.                                         
+31/01/2021         S A L D O                                                                   2.928,39 D
+--------------------------------------------------------------------------------
+- Limite Cheque Especial                                              5.800,00 C
+--------------------------------------------------------------------------------
+Taxa Cheque Especial AO MÊS                                                7,69%
+Taxa Cheque Especial AO ANO                                              143,28%
+DT. VENC. CH. ESP.                                                    31/01/2022
+--------------------------------------------------------------------------------
+Informações Complementares - CET (*)                      R$                   %
+ Valor total devido                                 5.836,30                   -
+ Valor liberado                                     5.800,00               99,38
+Despesas Vinculadas                                                             
+ - Tributos IOF                                        36,30                0,62
+                                                                                
+                ------------------------------------------------                
+                OBSERVAÇÕES:                                                    
+                ------------------------------------------------                
+                                                                                
+                                                                                
