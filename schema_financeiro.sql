@@ -4,8 +4,8 @@
 --   TOAD Version       : 9.0.1.8 
 --   DB Connect String  : TESTE 
 --   Schema             : FINANCEIRO 
---   Script Created by  : ARTBOX 
---   Script Created at  : 07/05/2021 17:04:42 
+--   Script Created by  : PORTAL 
+--   Script Created at  : 19/05/2021 14:14:29 
 --   Physical Location  :  
 --   Notes              :  
 --
